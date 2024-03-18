@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link Submission Form</title>
+</head>
+<body>
+    <h1>Submit a Link</h1>
+    <form id="linkForm">
+        <label for="link">Link:</label>
+        <input type="url" id="link" name="link" required>
+        <br>
+        <label for="description">Description:</label>
+        <input type="text" id="description" name="description" required>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <script>
+        document.getElementById("linkForm").addEventListener("submit", function (event) {
+            event.preventDefault(); // Prevent form submission
+
+            // Get input values
+            const link = document.getElementById("link").value;
+            const description = document.getElementById("description").value;
+
+            // Log input values to console (you can replace this with your Lambda call)
+            console.log("Submitted Link:", link);
+            console.log("Description:", description);
+
+            // Clear form fields (optional)
+            document.getElementById("link").value = "";
+            document.getElementById("description").value = "";
+        });
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,21 @@
+[
+{
+  "title":"Global Emancipation Network",
+  "description":"Detailed description of what the site/organization linked does",
+  "url":"https://globalemancipation.ngo",
+  "contact-name":"Sherry C",
+  "contact-number":"123-456-7890",
+  "contact-url":"mailto://sherrie@globalemancipation.ngo",
+  "date-added":"03/11/2024"
+  },
+{
+  "title":"Some Other site",
+  "description":"More description",
+  "url":"https://someotheorg.net",
+  "contact-name":"john smith",
+  "contact-number":"123-456-0987",
+  "contact-url":"https://contactus.listedorg.com",
+  "date-added":"03/12/2024"
+  }
+
+]
