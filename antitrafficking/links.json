@@ -6,7 +6,8 @@
   "contact-name":"Sherry C",
   "contact-number":"123-456-7890",
   "contact-url":"mailto://sherrie@globalemancipation.ngo",
-  "date-added":"03/11/2024"
+  "date-added":"03/11/2024",
+  "tags":{"category":"antitrafficiking","business-type":"non-profit"}
   },
 {
   "title":"Some Other site",
@@ -15,7 +16,8 @@
   "contact-name":"john smith",
   "contact-number":"123-456-0987",
   "contact-url":"https://contactus.listedorg.com",
-  "date-added":"03/12/2024"
+  "date-added":"03/12/2024",
+  "tags":{"category":"some other tag","business-type":"non-profit"}
   }
 
 ]

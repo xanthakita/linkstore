@@ -6,7 +6,8 @@
   "contact-name":"Rose R",
   "contact-number":"123-456-7890",
   "contact-url":"mailto://rose@yahoo.com",
-  "date-added":"03/18/2024"
+  "date-added":"03/18/2024",
+  "tags":{"category":"Puppy stuff","business-type":"hobby"}
   }
 
 ]

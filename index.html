@@ -3,24 +3,45 @@
     <html>
     <head>
         <title>Links</title>
+        <style>
+            .tag-radio {
+                margin-bottom: 10px;
+            }
+        </style>
     </head>
     <body>
-    
-    <div class="section">
+    <div class='tag-radio'><form>
+        <label><input type="checkbox" name="hobby" value="hobby" checked>hobby</label><br>
+        
+        <label><input type="checkbox" name="Puppy stuff" value="Puppy stuff" checked>Puppy stuff</label><br>
+        
+        <label><input type="checkbox" name="antitrafficiking" value="antitrafficiking" checked>antitrafficiking</label><br>
+        
+        <label><input type="checkbox" name="non-profit" value="non-profit" checked>non-profit</label><br>
+        
+        <label><input type="checkbox" name="some other tag" value="some other tag" checked>some other tag</label><br>
+        </form></div>
+    <div class="section antitrafficking">
         <h1>antitrafficking</h1>
     
-        <a href="https://globalemancipation.ngo">Global Emancipation Network</a> - Detailed description of what the site/organization linked does<br>
-        Contact: <a href="mailto:mailto://sherrie@globalemancipation.ngo">Sherry C</a> (123-456-7890)<br>
-        
-        <a href="https://someotheorg.net">Some Other site</a> - More description<br>
-        Contact: <a href="mailto:https://contactus.listedorg.com">john smith</a> (123-456-0987)<br>
-        </div>
-    <div class="section">
+        <div class="entry">
+            <a href="https://globalemancipation.ngo">Global Emancipation Network</a> - Detailed description of what the site/organization linked does<br>
+            Contact: <a href="mailto:mailto://sherrie@globalemancipation.ngo">Sherry C</a> (123-456-7890)<br>
+            Tags:
+        <span class='tag'>category: antitrafficiking</span><span class='tag'>business-type: non-profit</span></div>
+        <div class="entry">
+            <a href="https://someotheorg.net">Some Other site</a> - More description<br>
+            Contact: <a href="mailto:https://contactus.listedorg.com">john smith</a> (123-456-0987)<br>
+            Tags:
+        <span class='tag'>category: some other tag</span><span class='tag'>business-type: non-profit</span></div></div>
+    <div class="section puppies">
         <h1>puppies</h1>
     
-        <a href="https://moonlightshibas.com">Moonlight Shibas</a> - Shiba Inus! testing categories<br>
-        Contact: <a href="mailto:mailto://rose@yahoo.com">Rose R</a> (123-456-7890)<br>
-        </div>
+        <div class="entry">
+            <a href="https://moonlightshibas.com">Moonlight Shibas</a> - Shiba Inus! testing categories<br>
+            Contact: <a href="mailto:mailto://rose@yahoo.com">Rose R</a> (123-456-7890)<br>
+            Tags:
+        <span class='tag'>category: Puppy stuff</span><span class='tag'>business-type: hobby</span></div></div>
     </body>
     </html>
-    
+    <script src="filter.js"></script>
