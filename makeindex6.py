@@ -67,18 +67,27 @@ def generate_html_section(directory, entries):
 
     # Displaying entries with their details
     for entry in entries:
+        # Check if each attribute exists and is not empty
+        title = entry.get('title', 'No Data Available')
+        url = entry.get('url', '#')
+        description = entry.get('description', 'No Data Available')
+        contact_name = entry.get('contact-name', 'No Data Available')
+        contact_url = entry.get('contact-url', '#')
+        contact_number = entry.get('contact-number', 'No Data Available')
+
         html += f"""
         <div class="entry">
-            <a href="{entry['url']}">{entry['title']}</a> - {entry['description']}<br>
-            Contact: <a href="mailto:{entry['contact-url']}">{entry['contact-name']}</a> ({entry['contact-number']})<br>
+            <a href="{url}">{title}</a> - {description}<br>
+            Contact: <a href="mailto:{contact_url}">{contact_name}</a> ({contact_number})<br>
             Tags:
         """
-        for tag_category, tag_value in entry['tags'].items():
+        for tag_category, tag_value in entry.get('tags', {}).items():
             html += f"<span class='tag'>{tag_category}: {tag_value}</span>"
         html += "</div>"
 
     html += "</div>"
     return html
+
 
 def main():
     # Get the current working directory

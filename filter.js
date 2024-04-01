@@ -1,20 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("Document loaded");
     const tagFilters = document.getElementById('tagFilters');
-    console.log("Tag filters element:", tagFilters);
     const sections = document.getElementById('sections');
-    console.log("Sections element:", sections);
     let activeFilters = {};
 
     // Generate radio buttons for filtering by category
     function generateTagFilters() {
-        console.log("Generating tag filters...");
         const allTags = new Set();
         for (const section of sections.children) {
-            console.log("Processing section:", section);
-            const tags = section.classList;
-            console.log("Section tags:", tags);
-            tags.forEach(tag => allTags.add(tag));
+            const tags = section.querySelectorAll('span[id]');
+            tags.forEach(tag => allTags.add(tag.id));
         }
 
         tagFilters.innerHTML = '';
@@ -30,13 +24,14 @@ document.addEventListener('DOMContentLoaded', function() {
             tagFilters.appendChild(label);
             tagFilters.appendChild(document.createElement('br'));
         });
-        console.log("Tag filters generated successfully.");
     }
 
     // Update active filters when checkbox state changes
+
+    // Update active filters when checkbox state changes
     function updateFilters(event) {
-        console.log("Updating filters...");
         const checkbox = event.target;
+        console.log("Clicked checkbox value:", checkbox.value);
         if (checkbox.checked) {
             activeFilters[checkbox.value] = true;
         } else {
@@ -47,12 +42,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Filter entries based on active filters
     function filterEntries() {
-        console.log("Filtering entries...");
         for (const section of sections.children) {
-            const tags = section.classList;
+            const tags = section.querySelectorAll('span[id]');
             let showSection = true;
             tags.forEach(tag => {
-                if (!(tag in activeFilters)) {
+                if (!(tag.id in activeFilters)) {
                     showSection = false;
                 }
             });
@@ -62,7 +56,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 section.classList.add('hidden');
             }
         }
-        console.log("Entries filtered successfully.");
     }
 
     // Initial setup
@@ -71,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add event listener to generateTagFilters
     document.addEventListener('change', generateTagFilters);
 
-    // Add event listener to generateTagFilters
+    // Add event listener to updateFilters
     document.addEventListener('change', updateFilters);
 });
 
