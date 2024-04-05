@@ -1,6 +1,5 @@
 import os
 import json
-import hashlib
 
 def extract_info(json_file):
     with open(json_file, 'r') as f:
@@ -14,9 +13,6 @@ def extract_info(json_file):
 
     # Iterate over each dictionary in the list
     for data in data_list:
-        # Calculate SHA256 hash of the link
-        link_hash = hashlib.sha256(data.get("link", "").encode()).hexdigest()
-
         # Extract required information from each dictionary
         info = {
             "title": data.get("title", ""),
@@ -24,8 +20,7 @@ def extract_info(json_file):
             "displayLink": data.get("displayLink", ""),
             "snippet": data.get("snippet", ""),
             "formattedUrl": data.get("formattedUrl", ""),
-            "category": category,  # Add category information
-            "id": link_hash[:16]  # Take first 16 characters of hash as ID
+            "category": category  # Add category information
         }
 
         # Check if metatags exist and extract them

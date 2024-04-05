@@ -17,6 +17,8 @@ def load_json_file(file_path):
             raise  # Re-raise the exception
 
 def generate_html(grouped_entries):
+    # Generate card for each entry
+
     html = """
     <!DOCTYPE html>
     <html>
@@ -60,16 +62,18 @@ def generate_html(grouped_entries):
                 link = entry.get('link', '#')
                 display_link = entry.get('displayLink', '')
                 formatted_url = entry.get('formattedUrl', '')
+                snippet = entry.get('snippet', '')  # Fetch snippet from JSON data
 
                 # Generate card for each entry
                 html += f"""
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title"><a href="{link}">{title}</a></h5>
-                        <p class="card-text">{display_link}</p>
-                        <p class="card-text">{formatted_url}</p>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="{link}">{title}</a></h5>
+                            <p class="card-text">{snippet}</p>
+                            <p class="card-text">{display_link}</p>
+                            <p class="card-text">{formatted_url}</p>
+                        </div>
                     </div>
-                </div>
                 """
 
             # Close card body and section

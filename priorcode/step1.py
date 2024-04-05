@@ -1,9 +1,7 @@
-import os
 import requests
 import re
-import json
 import pandas as pd
-from google_api import API_KEY, SEARCH_ENGINE_ID
+import json
 
 def clean_filename(filename):
     """
@@ -15,6 +13,7 @@ def clean_filename(filename):
     """
     filename = re.sub(r'[\\/*?:"<>|]', "", filename) # remove special characters
     return filename
+
 
 def build_payload(query, start=1, num=10, date_restrict='m1', **params):
     """
@@ -41,6 +40,7 @@ def build_payload(query, start=1, num=10, date_restrict='m1', **params):
     payload.update(params)
     return payload
 
+
 def make_request(payload, max_retries=3):
     """
     Function to GET a request  to the Google Search API and handle  potential errors.
@@ -62,13 +62,6 @@ def make_request(payload, max_retries=3):
             retries += 1
     raise Exception('Failed to make request after multiple retries')
 
-def check_existing_links(links, existing_files):
-    existing_links = []
-    for file in existing_files:
-        with open(file, 'r') as f:
-            data = json.load(f)
-            existing_links.extend([item['link'] for item in data])
-    return [link for link in links if link not in existing_links]
 
 def main(query, result_total=10):
     """
@@ -91,16 +84,15 @@ def main(query, result_total=10):
             items.extend(response['items'])
         query_string_clean = clean_filename(q)
 
-        existing_files = [file for file in os.listdir() if file.startswith("Google_Search_Result_") and file.endswith(".json")]
-        new_links = check_existing_links([item['link'] for item in items], existing_files)
-        new_items = [item for item in items if item['link'] in new_links]
-
         # Write to JSON file
         with open(f'Google_Search_Result_{query_string_clean}.json', 'w') as json_file:
-            json.dump(new_items, json_file, indent=4)
+            json.dump(items, json_file, indent=4)
+
 
 if __name__ == '__main__':
-    search_queries = ["dog breeding", "Shiba Inu dog", "CSAM", "child protection", "massage parlors && human trafficking", "human trafficking", "sand mafias"]
+    API_KEY = 'AIzaSyDe5RN1AKudxHJihyVqolqP5fZlbA3Ui2U'
+    SEARCH_ENGINE_ID = 'e05a3190ad1614712'
+    search_queries = ["CSAM", "child protection", "massage parlors && human trafficking", "human trafficking", "sand mafias"]
     total_results = 50
     main(search_queries, total_results)
 

@@ -1,500 +1,226 @@
 [
     {
         "kind": "customsearch#result",
-        "title": "A Voice for the Voiceless - CSAM Identification | Congress.gov ...",
-        "htmlTitle": "A Voice for the Voiceless - <b>CSAM</b> Identification | Congress.gov ...",
-        "link": "https://www.congress.gov/event/118th-congress/house-event/116913?s=1&r=34",
-        "displayLink": "www.congress.gov",
-        "snippet": "Mar 6, 2024 ... A Voice for the Voiceless - CSAM Identification.",
-        "htmlSnippet": "Mar 6, 2024 <b>...</b> A Voice for the Voiceless - <b>CSAM</b> Identification.",
-        "cacheId": "d62L1xl5FMUJ",
-        "formattedUrl": "https://www.congress.gov/event/118th-congress/house.../116913?s=1&r...",
-        "htmlFormattedUrl": "https://www.congress.gov/event/118th-congress/house.../116913?s=1&amp;r...",
+        "title": "CSAM 2024 \u2013 Exhibit with us! \u2013 CSAM",
+        "htmlTitle": "<b>CSAM</b> 2024 \u2013 Exhibit with us! \u2013 <b>CSAM</b>",
+        "link": "https://csam-asam.org/exhibit-with-csam-2024/",
+        "displayLink": "csam-asam.org",
+        "snippet": "Mar 13, 2024 ... \u00bb Opportunities to Exhibit with CSAM are now Available for 2024! The California Society of Addiction Medicine (CSAM) is excited to announce that exhibit space\u00a0...",
+        "htmlSnippet": "Mar 13, 2024 <b>...</b> \u00bb Opportunities to Exhibit with <b>CSAM</b> are now Available for 2024! The California Society of Addiction Medicine (<b>CSAM</b>) is excited to announce that exhibit space&nbsp;...",
+        "cacheId": "aPrUdMsbYmQJ",
+        "formattedUrl": "https://csam-asam.org/exhibit-with-csam-2024/",
+        "htmlFormattedUrl": "https://<b>csam</b>-asam.org/exhibit-with-<b>csam</b>-2024/",
         "pagemap": {
             "cse_thumbnail": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvf77cCsGgrae9jy5WU0Gxo7NtvKOaxuMhg2aY1P8jQTmTDhDtRt1tong&s",
-                    "width": "310",
-                    "height": "163"
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZhMrh-IYGVld7yspq8XPJTzrqL9I8ir1S7RE6hiM4Xpgqoa9cGz6QA&s",
+                    "width": "401",
+                    "height": "126"
                 }
+            ],
+            "BreadcrumbList": [
+                {}
             ],
             "metatags": [
                 {
-                    "og:image": "https://www.congress.gov/img/opengraph1200by630.jpg",
-                    "og:type": "website",
-                    "og:title": "A Voice for the Voiceless - CSAM Identification",
-                    "dc.rights": "Text is government work",
-                    "canonical": "https://www.congress.gov/event/118th-congress/house-event/116913",
-                    "og:description": "A Voice for the Voiceless - CSAM Identification",
-                    "dc.type": "legislation",
-                    "viewport": "width=device-width,initial-scale=1",
-                    "dc.title": "A Voice for the Voiceless - CSAM Identification",
-                    "dc.identifier": "https://www.congress.gov/event/118th-congress/house-event/116913",
-                    "dc.subject": "Legislative Data",
-                    "dc.language": "eng",
-                    "og:url": "https://www.congress.gov/event/118th-congress/house-event/116913"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.congress.gov/img/opengraph1200by630.jpg"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Durbin Statement on Google Endorsement of STOP CSAM Act ...",
-        "htmlTitle": "Durbin Statement on Google Endorsement of STOP <b>CSAM</b> Act ...",
-        "link": "https://www.judiciary.senate.gov/press/releases/durbin-statement-on-google-endorsement-of-stop-csam-act-package-of-kids-online-safety-bills",
-        "displayLink": "www.judiciary.senate.gov",
-        "snippet": "Mar 7, 2024 ... Google joins X (formerly known as Twitter) in endorsing the STOP CSAM Act, SHIELD Act, and the REPORT Act. Additionally, Google endorsed one other bill reported\u00a0...",
-        "htmlSnippet": "Mar 7, 2024 <b>...</b> Google joins X (formerly known as Twitter) in endorsing the STOP <b>CSAM</b> Act, SHIELD Act, and the REPORT Act. Additionally, Google endorsed one other bill reported&nbsp;...",
-        "cacheId": "GFSsCCtlCfoJ",
-        "formattedUrl": "https://www.judiciary.senate.gov/.../durbin-statement-on-google-endorseme...",
-        "htmlFormattedUrl": "https://www.judiciary.senate.gov/.../durbin-statement-on-google-endorseme...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw7UYBXwGa-dWTMyJk_P4rx6LqZHAcJto4zHDISpJkNEk1vRz-u9YSaE&s",
-                    "width": "310",
-                    "height": "163"
-                }
-            ],
-            "metatags": [
-                {
-                    "application-name": "United States Senate Committee on the Judiciary",
-                    "msapplication-tilecolor": "#F1EFE4",
-                    "date": "2024-03-07",
-                    "msapplication-config": "/assets/images/browserconfig.xml",
-                    "og:image": "https://www.judiciary.senate.gov/assets/images/sharelogo.jpg",
-                    "theme-color": "#F1EFE4",
-                    "twitter:card": "summary_large_image",
-                    "twitter:title": "Durbin Statement on Google Endorsement of STOP CSAM Act, Package of Kids' Online Safety Bills | United States Senate Committee on the Judiciary",
-                    "page-title": "Durbin Statement on Google Endorsement of STOP CSAM Act, Package of Kids' Online Safety Bills",
-                    "apple-mobile-web-app-title": "United States Senate Committee on the Judiciary",
-                    "og:title": "Durbin Statement on Google Endorsement of STOP CSAM Act, Package of Kids' Online Safety Bills | United States Senate Committee on the Judiciary",
-                    "og:description": "WASHINGTON \u2013 U.S. Senate Majority Whip Dick Durbin (D-IL), Chair of the Senate Judiciary Committee,...",
-                    "twitter:image": "https://www.judiciary.senate.gov/assets/images/sharelogo.png",
-                    "twitter:site": "@senjudiciary",
-                    "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
-                    "twitter:description": "WASHINGTON \u2013 U.S. Senate Majority Whip Dick Durbin (D-IL), Chair of the Senate Judiciary Committee,...",
-                    "og:url": "https://www.judiciary.senate.gov/press/releases/durbin-statement-on-google-endorsement-of-stop-csam-act-package-of-kids-online-safety-bills",
-                    "twitter:account_id": "704320143824953344"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.judiciary.senate.gov/assets/images/sharelogo.jpg"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Florida man, sex offender sentenced, admits 'obsession' to CSAM | ICE",
-        "htmlTitle": "Florida man, sex offender sentenced, admits &#39;obsession&#39; to <b>CSAM</b> | ICE",
-        "link": "https://www.ice.gov/news/releases/florida-man-sex-offender-sentenced-admits-obsession-csam",
-        "displayLink": "www.ice.gov",
-        "snippet": "7 days ago ... Florida man, sex offender sentenced, admits 'obsession' to CSAM. JACKSONVILLE, Florida \u2014 A Northeast Florida Inter-Agency Child Exploitation and Persons\u00a0...",
-        "htmlSnippet": "7 days ago <b>...</b> Florida man, sex offender sentenced, admits &#39;obsession&#39; to <b>CSAM</b>. JACKSONVILLE, Florida \u2014 A Northeast Florida Inter-Agency Child Exploitation and Persons&nbsp;...",
-        "cacheId": "qcnAMq5NdmQJ",
-        "formattedUrl": "https://www.ice.gov/.../florida-man-sex-offender-sentenced-admits-obsessio...",
-        "htmlFormattedUrl": "https://www.ice.gov/.../florida-man-sex-offender-sentenced-admits-obsessio...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03hsq4CoWc-93JCG7edf1gJtO8XXOahcAX3OGfoEXQpCiUjOi-j627zI&s",
-                    "width": "310",
-                    "height": "163"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://www.ice.gov/sites/default/files/images/dhsIceSocial1.jpg",
-                    "og:type": "Website",
-                    "twitter:card": "summary",
-                    "twitter:title": "Florida man, sex offender sentenced, admits \u2018obsession\u2019 to CSAM",
-                    "handheldfriendly": "true",
-                    "twitter:url": "https://www.ice.gov/news/releases/florida-man-sex-offender-sentenced-admits-obsession-csam",
                     "viewport": "width=device-width, initial-scale=1.0",
-                    "twitter:description": "Steven Lee Carty, 55, of Live Oak, was previously convicted of possessing, receiving and distributing child sex abuse images and has been\u00a0ordered\u00a0to pay $19,000 in restitution to his victims.\u00a0",
-                    "og:title": "Florida man, sex offender sentenced, admits \u2018obsession\u2019 to CSAM",
-                    "mobileoptimized": "width",
-                    "og:url": "https://www.ice.gov/news/releases/florida-man-sex-offender-sentenced-admits-obsession-csam",
-                    "twitter:image": "https://www.ice.gov, sites/default/files/images/ice-default.jpg"
+                    "tec-api-origin": "https://csam-asam.org",
+                    "position": "1",
+                    "msapplication-tileimage": "https://csam-asam.org/wp-content/uploads/cropped-android-chrome-512x512-1-270x270.png",
+                    "tec-api-version": "v1",
+                    "url": "https://csam-asam.org/exhibit-with-csam-2024/"
                 }
             ],
             "cse_image": [
                 {
-                    "src": "https://www.ice.gov/sites/default/files/images/dhsIceSocial1.jpg"
+                    "src": "https://csam-asam.org/wp-content/uploads/CSAM-2024-Header.png"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "Assessments guide for CSAMs | Microsoft Learn",
-        "htmlTitle": "Assessments guide for CSAMs | Microsoft Learn",
-        "link": "https://learn.microsoft.com/en-us/services-hub/unified/health/assessments-guide-for-tams",
-        "displayLink": "learn.microsoft.com",
-        "snippet": "Mar 11, 2024 ... On-Demand Assessment Pre-Requisite Guide for CSAMs. Below are some of the steps you need to complete as a CSAM to enable any customer (Premier or Unified) to\u00a0...",
-        "htmlSnippet": "Mar 11, 2024 <b>...</b> On-Demand Assessment Pre-Requisite Guide for CSAMs. Below are some of the steps you need to complete as a <b>CSAM</b> to enable any customer (Premier or Unified) to&nbsp;...",
-        "cacheId": "-HxUoj7yeNQJ",
-        "formattedUrl": "https://learn.microsoft.com/en-us/services.../assessments-guide-for-tams",
-        "htmlFormattedUrl": "https://learn.microsoft.com/en-us/services.../assessments-guide-for-tams",
+        "title": "CSAM Change in Management Announcement \u2013 CSAM",
+        "htmlTitle": "<b>CSAM</b> Change in Management Announcement \u2013 <b>CSAM</b>",
+        "link": "https://csam-asam.org/csam-change-in-management-announcement/",
+        "displayLink": "csam-asam.org",
+        "snippet": "Mar 6, 2024 ... For the past four years, CSAM's Executive Director, Kim Andosca, and our staff have provided their services through the Advocacy & Management Group (AMG).",
+        "htmlSnippet": "Mar 6, 2024 <b>...</b> For the past four years, <b>CSAM&#39;s</b> Executive Director, Kim Andosca, and our staff have provided their services through the Advocacy &amp; Management Group (AMG).",
+        "cacheId": "rHTEBpq12MkJ",
+        "formattedUrl": "https://csam-asam.org/csam-change-in-management-announcement/",
+        "htmlFormattedUrl": "https://<b>csam</b>-asam.org/<b>csam</b>-change-in-management-announcement/",
         "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamiYiZkfXbLeih3vADC8SZH3wbbrq_92KFEfjeYjdTxr8-Z0AtOhIt4cS&s",
-                    "width": "310",
-                    "height": "163"
-                }
+            "BreadcrumbList": [
+                {}
             ],
+            "metatags": [
+                {
+                    "viewport": "width=device-width, initial-scale=1.0",
+                    "tec-api-origin": "https://csam-asam.org",
+                    "position": "1",
+                    "msapplication-tileimage": "https://csam-asam.org/wp-content/uploads/cropped-android-chrome-512x512-1-270x270.png",
+                    "tec-api-version": "v1",
+                    "url": "https://csam-asam.org/csam-change-in-management-announcement/"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "News & Press \u2013 CSAM",
+        "htmlTitle": "News &amp; Press \u2013 <b>CSAM</b>",
+        "link": "https://csam-asam.org/resources/news-press/",
+        "displayLink": "csam-asam.org",
+        "snippet": "Mar 6, 2024 ... Member News \u00b7 CSAM Change in Management Announcement Wednesday March 06th, 2024. For the past four years, CSAM's Executive Director, Kim Andosca, and our staff\u00a0...",
+        "htmlSnippet": "Mar 6, 2024 <b>...</b> Member News &middot; <b>CSAM</b> Change in Management Announcement Wednesday March 06th, 2024. For the past four years, <b>CSAM&#39;s</b> Executive Director, Kim Andosca, and our staff&nbsp;...",
+        "cacheId": "GHQNQux_9AsJ",
+        "formattedUrl": "https://csam-asam.org/resources/news-press/",
+        "htmlFormattedUrl": "https://<b>csam</b>-asam.org/resources/news-press/",
+        "pagemap": {
+            "BreadcrumbList": [
+                {}
+            ],
+            "metatags": [
+                {
+                    "viewport": "width=device-width, initial-scale=1.0",
+                    "tec-api-origin": "https://csam-asam.org",
+                    "position": "1",
+                    "msapplication-tileimage": "https://csam-asam.org/wp-content/uploads/cropped-android-chrome-512x512-1-270x270.png",
+                    "tec-api-version": "v1",
+                    "url": "https://csam-asam.org/resources/news-press/"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "CSAM: Understanding the Topic and Prevention Tips for Caregivers ...",
+        "htmlTitle": "<b>CSAM</b>: Understanding the Topic and Prevention Tips for Caregivers ...",
+        "link": "http://cacofniagara.org/csam-understanding-the-topic-and-prevention-tips-for-caregivers/",
+        "displayLink": "cacofniagara.org",
+        "snippet": "Mar 21, 2024 ... Child Sexual Abuse Material (CSAM), or child pornography, is any content that shows sexually explicit activities involving children.",
+        "htmlSnippet": "Mar 21, 2024 <b>...</b> Child Sexual Abuse Material (<b>CSAM</b>), or child pornography, is any content that shows sexually explicit activities involving children.",
+        "cacheId": "AthMWQ0aDvsJ",
+        "formattedUrl": "http://cacofniagara.org/csam-understanding-the-topic-and-prevention-tips-f...",
+        "htmlFormattedUrl": "http://cacofniagara.org/<b>csam</b>-understanding-the-topic-and-prevention-tips-f...",
+        "pagemap": {
             "organization": [
                 {
-                    "url": "Learn"
+                    "logo": "https://i0.wp.com/cacofniagara.org/wp-content/uploads/2015/10/logo.jpg?resize=400%2C125",
+                    "url": "http://cacofniagara.org/"
                 }
             ],
             "metatags": [
                 {
-                    "schema": "Conceptual",
-                    "og:image": "https://learn.microsoft.com/en-us/media/open-graph-image.png",
-                    "twitter:card": "summary_large_image",
-                    "ms.author": "v-sulewis",
-                    "ms.topic": "how-to",
-                    "page_type": "conceptual",
-                    "document_id": "38849a05-ac36-a412-61e6-fcc17f8841db",
-                    "locale": "en-us",
-                    "og:description": "Provides a step-by-step guide for CSAMs using On-Demand Assessment Technology for customers and guidelines for interacting with customers.",
-                    "feedback_product_url": "https://aka.ms/sh-ideas",
-                    "ms.date": "03/03/2022",
-                    "depot_name": "MSDN.serviceshub-docs",
-                    "ms.service": "services-hub",
-                    "github_feedback_content_git_url": "https://github.com/MicrosoftDocs/services-hub-docs/blob/live/docs/unified/health/assessments-guide-for-tams.md",
-                    "word_count": "1708",
-                    "twitter:site": "@MicrosoftLearn",
-                    "updated_at": "2024-03-11 06:25 PM",
-                    "original_content_git_url": "https://github.com/MicrosoftDocs/services-hub-docs/blob/live/docs/unified/health/assessments-guide-for-tams.md",
-                    "spproducts": "https://authoring-docs-microsoft.poolparty.biz/devrel/90370425-aca4-4a39-9533-d52e5e002a5d",
-                    "og:type": "website",
-                    "og:image:alt": "Microsoft Learn",
-                    "git_commit_id": "1f22081334846a693c45b2120c82a5556e5c3db8",
-                    "persistent_id": "f63b88a5-76c8-0828-69ad-7fdf82401e48",
-                    "author": "Sulewis",
-                    "og:title": "Assessments guide for CSAMs",
-                    "color-scheme": "light dark",
-                    "feedback_system": "Standard",
-                    "site_name": "Docs",
-                    "viewport": "width=device-width, initial-scale=1.0",
-                    "breadcrumb_path": "/services-hub/breadcrumb/toc.json",
-                    "document_version_independent_id": "a86344d2-ce7e-d688-3a3d-b274ad9cdffd",
-                    "cmproducts": "https://authoring-docs-microsoft.poolparty.biz/devrel/68ec7f3a-2bc6-459f-b959-19beb729907d",
-                    "og:url": "https://learn.microsoft.com/en-us/services-hub/unified/health/assessments-guide-for-tams",
-                    "uhfheaderid": "MSDocsHeader-ServicesHub",
-                    "toc_rel": "toc.json",
-                    "gitcommit": "https://github.com/MicrosoftDocs/services-hub-docs/blob/1f22081334846a693c45b2120c82a5556e5c3db8/docs/unified/health/assessments-guide-for-tams.md"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://learn.microsoft.com/en-us/media/open-graph-image.png"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Thorn: Defend Children from Sexual Abuse",
-        "htmlTitle": "Thorn: Defend Children from Sexual Abuse",
-        "link": "https://www.thorn.org/",
-        "displayLink": "www.thorn.org",
-        "snippet": "Mar 7, 2024 ... We builds tools to defend children from grooming, sextortion and more. We're on a mission to eliminate child sexual abuse materials (CSAM) from the\u00a0...",
-        "htmlSnippet": "Mar 7, 2024 <b>...</b> We builds tools to defend children from grooming, sextortion and more. We&#39;re on a mission to eliminate child sexual abuse materials (<b>CSAM</b>) from the&nbsp;...",
-        "cacheId": "JnLVN63YGgYJ",
-        "formattedUrl": "https://www.thorn.org/",
-        "htmlFormattedUrl": "https://www.thorn.org/",
-        "pagemap": {
-            "metatags": [
-                {
-                    "og:type": "website",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "Thorn",
-                    "twitter:site": "@thorn",
-                    "article:modified_time": "2024-03-07T23:17:56+00:00",
-                    "viewport": "width=device-width, initial-scale=1, maximum-scale=2.0, user-scalable=yes",
-                    "og:title": "Home",
-                    "og:locale": "en_US",
-                    "og:url": "https://www.thorn.org/",
-                    "og:description": "We builds tools to defend children from grooming, sextortion and more. We're on a mission to eliminate child sexual abuse materials (CSAM) from the internet.",
-                    "article:publisher": "https://www.facebook.com/wearethorn"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Cambodian Student Association of Minnesota - CSAM",
-        "htmlTitle": "<b>Cambodian Student Association of Minnesota</b> - <b>CSAM</b>",
-        "link": "https://www.facebook.com/csamumn/",
-        "displayLink": "www.facebook.com",
-        "snippet": "Mar 22, 2024 ... Cambodian Student Association of Minnesota - CSAM, Minneapolis, Minnesota. 1810 likes \u00b7 69 talking about this \u00b7 2 were here. Founded in 1988, the...",
-        "htmlSnippet": "Mar 22, 2024 <b>...</b> <b>Cambodian Student Association of Minnesota</b> - <b>CSAM</b>, Minneapolis, Minnesota. 1810 likes \u00b7 69 talking about this \u00b7 2 were here. Founded in 1988, the...",
-        "cacheId": "S3lRq5wJJwYJ",
-        "formattedUrl": "https://www.facebook.com/csamumn/",
-        "htmlFormattedUrl": "https://www.facebook.com/<b>csam</b>umn/",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQy3ltX2MxXDcJs8h5tWeT3De0S7v9H8M_nL3Tjq1D8zv8AHIqacPT0uQ&s",
-                    "width": "225",
-                    "height": "225"
-                }
-            ],
-            "metatags": [
-                {
-                    "apple-itunes-app": "app-id=284882215, app-argument=fb://profile/100070940136240",
-                    "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070940136240",
-                    "twitter:card": "summary",
-                    "theme-color": "#FFFFFF",
-                    "al:android:package": "com.facebook.katana",
-                    "al:ios:url": "fb://profile/100070940136240",
-                    "og:description": "Cambodian Student Association of Minnesota - CSAM, Minneapolis, Minnesota. 1,810 likes \u00b7 69 talking about this \u00b7 2 were here. Founded in 1988, the Cambodian Student Association of Minnesota...",
-                    "al:ios:app_store_id": "284882215",
-                    "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070940136240",
-                    "twitter:image:alt": "Cambodian Student Association of Minnesota - CSAM | Minneapolis MN",
-                    "twitter:site": "@facebookapp",
-                    "og:type": "video.other",
-                    "og:image:alt": "Cambodian Student Association of Minnesota - CSAM | Minneapolis MN",
-                    "twitter:title": "Cambodian Student Association of Minnesota - CSAM | Minneapolis MN",
-                    "al:ios:app_name": "Facebook",
-                    "og:title": "Cambodian Student Association of Minnesota - CSAM | Minneapolis MN",
-                    "google": "notranslate",
-                    "al:android:url": "fb://profile/100070940136240",
-                    "referrer": "origin-when-crossorigin",
-                    "viewport": "width=device-width, initial-scale=1",
-                    "twitter:description": "Cambodian Student Association of Minnesota - CSAM, Minneapolis, Minnesota. 1,810 likes \u00b7 69 talking about this \u00b7 2 were here. Founded in 1988, the Cambodian Student Association of Minnesota...",
-                    "og:locale": "en_US",
-                    "fb-version": "401.0.0.0.19:2446",
-                    "og:url": "https://www.facebook.com/csamumn/",
-                    "al:android:app_name": "Facebook"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100070940136240"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "How Mobile Forensics Can Dismantle Human Trafficking and CSAM",
-        "htmlTitle": "How Mobile Forensics Can Dismantle Human Trafficking and <b>CSAM</b>",
-        "link": "https://www.adfsolutions.com/news/how-mobile-forensics-can-dismantle-human-trafficking-and-csam",
-        "displayLink": "www.adfsolutions.com",
-        "snippet": "Mar 13, 2024 ... The fight against human trafficking and Child Sexual Abuse Material (CSAM) is a relentless one. As criminals adapt and exploit new technologies,\u00a0...",
-        "htmlSnippet": "Mar 13, 2024 <b>...</b> The fight against human trafficking and Child Sexual Abuse Material (<b>CSAM</b>) is a relentless one. As criminals adapt and exploit new technologies,&nbsp;...",
-        "cacheId": "pQjPheE4gGYJ",
-        "formattedUrl": "https://www.adfsolutions.com/.../how-mobile-forensics-can-dismantle-huma...",
-        "htmlFormattedUrl": "https://www.adfsolutions.com/.../how-mobile-forensics-can-dismantle-huma...",
-        "pagemap": {
-            "metatags": [
-                {
-                    "og:image": "https://www.adfsolutions.com/hubfs/Webinars%20Page%20-%20Guardians%20of%20the%20Digital%20Realm%20ICAC%20Investigations%20With%20Mobile%20Preview.png#keepProtocol",
-                    "twitter:title": "How Mobile Forensics Can Dismantle Human Trafficking and CSAM",
-                    "og:image:width": "1600",
-                    "og:image:alt": "Guardians of the Digital Realm: ICAC Investigations with Mobile Preview",
-                    "twitter:card": "summary_large_image",
                     "og:type": "article",
-                    "twitter:domain": "www.adfsolutions.com",
-                    "author": "Richard T. Frawley",
-                    "og:title": "How Mobile Forensics Can Dismantle Human Trafficking and CSAM",
-                    "og:image:height": "900",
-                    "og:description": "Learn more about how mobile forensics can help solve CSAM and human trafficking cases for ICAC task forces. Watch our latest webinar to learn more.",
-                    "twitter:creator": "@4N6Rich",
-                    "twitter:image": "https://www.adfsolutions.com/hubfs/Webinars%20Page%20-%20Guardians%20of%20the%20Digital%20Realm%20ICAC%20Investigations%20With%20Mobile%20Preview.png#keepProtocol",
-                    "twitter:image:alt": "Guardians of the Digital Realm: ICAC Investigations with Mobile Preview",
+                    "article:published_time": "2024-03-21T15:48:54+00:00",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Child Advocacy Center of Niagara",
+                    "author": "CAC Niagara",
+                    "og:title": "CSAM: Understanding the Topic and Prevention Tips for Caregivers - Child Advocacy Center of Niagara",
+                    "twitter:label1": "Written by",
+                    "twitter:label2": "Est. reading time",
+                    "og:description": "Child Sexual Abuse Material (CSAM), or child pornography, is any content that shows sexually explicit activities involving children. CSAM can include photographs, videos, digital or computer-generated images. This type of material used to be called child pornography (the legal term), but because the word pornography implies consent, \u2026 Continue reading \u2192",
+                    "twitter:data1": "CAC Niagara",
+                    "twitter:data2": "6 minutes",
+                    "article:modified_time": "2024-03-21T15:56:56+00:00",
                     "viewport": "width=device-width, initial-scale=1",
-                    "twitter:description": "Learn more about how mobile forensics can help solve CSAM and human trafficking cases for ICAC task forces. Watch our latest webinar to learn more.",
-                    "og:url": "https://www.adfsolutions.com/news/how-mobile-forensics-can-dismantle-human-trafficking-and-csam"
+                    "og:locale": "en_US",
+                    "og:url": "http://cacofniagara.org/csam-understanding-the-topic-and-prevention-tips-for-caregivers/"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "CSAM-ANTAM Policy Dialogue | ESCAP",
-        "htmlTitle": "<b>CSAM</b>-ANTAM Policy Dialogue | ESCAP",
-        "link": "https://www.unescap.org/events/2024/csam-antam-policy-dialogue",
-        "displayLink": "www.unescap.org",
-        "snippet": "Mar 16, 2024 ... CSAM-ANTAM Policy Dialogue. 01 to 03 April 2024 | By invitation only. Hybrid, Silk Road by Minyoun, Samarkand, Uzbekistan. ADD TO CALENDAR.",
-        "htmlSnippet": "Mar 16, 2024 <b>...</b> <b>CSAM</b>-ANTAM Policy Dialogue. 01 to 03 April 2024 | By invitation only. Hybrid, Silk Road by Minyoun, Samarkand, Uzbekistan. ADD TO CALENDAR.",
-        "cacheId": "4893lvz0IMIJ",
-        "formattedUrl": "https://www.unescap.org/events/2024/csam-antam-policy-dialogue",
-        "htmlFormattedUrl": "https://www.unescap.org/events/2024/<b>csam</b>-antam-policy-dialogue",
+        "title": "Once Again, Google Caves To Political Pressure And Supports ...",
+        "htmlTitle": "Once Again, Google Caves To Political Pressure And Supports ...",
+        "link": "https://www.techdirt.com/2024/03/12/once-again-google-caves-to-political-pressure-and-supports-questionable-stop-csam-law/",
+        "displayLink": "www.techdirt.com",
+        "snippet": "Mar 12, 2024 ... ... CSAM Act. We've talked about a couple of these bills. The Invest in Child Safety Act seems like a good one, from Senator Ron Wyden, as it focuses the issue\u00a0...",
+        "htmlSnippet": "Mar 12, 2024 <b>...</b> ... <b>CSAM</b> Act. We&#39;ve talked about a couple of these bills. The Invest in Child Safety Act seems like a good one, from Senator Ron Wyden, as it focuses the issue&nbsp;...",
+        "cacheId": "Il8xdoDc28EJ",
+        "formattedUrl": "https://www.techdirt.com/.../once-again-google-caves-to-political-pressure-...",
+        "htmlFormattedUrl": "https://www.techdirt.com/.../once-again-google-caves-to-political-pressure-...",
         "pagemap": {
+            "hcard": [
+                {
+                    "url_text": "(profile)",
+                    "fn": "That One Guy",
+                    "photo": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/user-default.jpg",
+                    "url": "https://www.techdirt.com/user/thatoneguy/"
+                },
+                {
+                    "fn": "Anonymous Coward"
+                },
+                {
+                    "url_text": "(profile)",
+                    "fn": "blakestacey",
+                    "nickname": "blakestacey",
+                    "photo": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/user-default.jpg",
+                    "url": "https://www.techdirt.com/user/blakestacey/"
+                },
+                {
+                    "fn": "Anonymous Coward"
+                },
+                {
+                    "url_text": "(profile)",
+                    "fn": "blakestacey",
+                    "nickname": "blakestacey",
+                    "photo": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/user-default.jpg",
+                    "url": "https://www.techdirt.com/user/blakestacey/"
+                },
+                {
+                    "fn": "Anonymous Coward"
+                },
+                {
+                    "url_text": "(profile)",
+                    "fn": "31Bob",
+                    "photo": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/user-default.jpg",
+                    "url": "https://www.techdirt.com/user/sonicanatidae/"
+                },
+                {
+                    "fn": "Anonymous Coward"
+                },
+                {
+                    "fn": "Anonymous Coward"
+                },
+                {
+                    "fn": "Anonymous Coward"
+                }
+            ],
             "cse_thumbnail": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVOe2J_fvRCX6mpyyelnIB77K45s_dIhBDIKL0MB7uRRq1Lqgy7gRlMgN&s",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpifCNeZjSKoX3Bpki8OYa5BMGH8S9S9xvUd6wZcYm10s2b8ymWm8Yo0gH&s",
                     "width": "310",
-                    "height": "162"
+                    "height": "163"
                 }
             ],
             "metatags": [
                 {
-                    "og:determiner": "ESCAP |",
-                    "og:image": "https://www.unescap.org/sites/default/d8files/default_metatag/ESCAP_SocialMedia_small_500p_NewLogo.png",
-                    "twitter:title": "CSAM-ANTAM Policy Dialogue",
-                    "twitter:card": "summary",
-                    "og:site_name": "ESCAP",
-                    "geo.region": "TH",
-                    "handheldfriendly": "true",
-                    "og:image:url": "https://www.unescap.org/sites/default/d8files/default_metatag/ESCAP_SocialMedia_small_500p_NewLogo.png",
-                    "og:title": "CSAM-ANTAM Policy Dialogue",
-                    "og:image:type": "image/jpeg",
-                    "abstract": "ESCAP has emerged as a strong regional think-tank offering countries sound analytical products that shed insight into the evolving economic, social and environmental dynamics. It's strategic focus is to deliver on the 2030 Agenda for SDGs",
-                    "geo.position": "13.7634525;100.5083959",
-                    "og:description": "ESCAP serves as the United Nations\u2019 regional hub promoting cooperation among countries to achieve inclusive and sustainable development. It is the largest regional intergovernmental platform with 53 Member States and 9 associate members.",
-                    "twitter:image": "https://www.unescap.org/sites/default/d8files/default_metatag/ESCAP_SocialMedia_small_500p_NewLogo.png",
-                    "og:image:secure_url": "https://www.unescap.org/sites/default/d8files/default_metatag/ESCAP_SocialMedia_small_500p_NewLogo.png",
-                    "icbm": "13.7634525;100.5083959",
-                    "news_keywords": "ESCAP,SDG,GOALS,United,Nations,News,Expert,opinions,blogs,op-ed,op-eds,asia,pacific",
-                    "viewport": "width=device-width, initial-scale=1.0",
-                    "mobileoptimized": "width",
-                    "og:url": "https://www.unescap.org/events/2024/csam-antam-policy-dialogue",
-                    "geo.placename": "Bangkok",
-                    "format-detection": "telephone=no"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.unescap.org/sites/default/d8files/default_metatag/ESCAP_SocialMedia_small_500p_NewLogo.png"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Registration and Hotel - CSAM-SMCA 2024 Scientific Conference",
-        "htmlTitle": "Registration and Hotel - <b>CSAM</b>-SMCA 2024 Scientific Conference",
-        "link": "https://csamconference.org/registration-and-hotels/",
-        "displayLink": "csamconference.org",
-        "snippet": "Mar 13, 2024 ... CSAM-SMCA members save up to $1,000 on a full three-day conference pass. Not a member? Click here to visit our membership page.",
-        "htmlSnippet": "Mar 13, 2024 <b>...</b> <b>CSAM</b>-SMCA members save up to $1,000 on a full three-day conference pass. Not a member? Click here to visit our membership page.",
-        "cacheId": "M4nNLimEnagJ",
-        "formattedUrl": "https://csamconference.org/registration-and-hotels/",
-        "htmlFormattedUrl": "https://<b>csam</b>conference.org/registration-and-hotels/",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGGizVvw5jxhuNpqfGD2p-sZIUmEihfjMoWL6viJOWsZghsSdq8Pe9tA&s",
-                    "width": "275",
-                    "height": "183"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://csamconference.org/wp-content/uploads/2023/04/2022-CSAM-SMCA-Day-1-NROMANOFF-166.jpg",
+                    "og:image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
                     "og:type": "article",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "CSAM-SMCA 2024 Scientific Conference",
-                    "og:title": "Registration and Hotel - CSAM-SMCA 2024 Scientific Conference",
-                    "twitter:label1": "Est. reading time",
-                    "msapplication-tileimage": "https://csamconference.org/wp-content/uploads/2022/03/csam-icon.svg",
-                    "og:description": "Register Now \u00bb Conference Pass REGISTRATION IS CLOSEDRegistration for the in-person conference closed Oct. 8.We will not be offering in-person registration in Victoria as the conference has reached capacity. Join us in person from November 14-16, 2024 at the Hamilton Convention Centre in Hamilton, Ontario, Canada The Conference Pass includes admission to the full three-day [\u2026]",
-                    "twitter:data1": "4 minutes",
-                    "article:modified_time": "2024-03-28T15:32:38+00:00",
-                    "viewport": "width=device-width, initial-scale=1",
+                    "article:published_time": "2024-03-12T19:22:12+00:00",
+                    "og:image:width": "512",
+                    "twitter:card": "summary",
+                    "og:site_name": "Techdirt",
+                    "og:title": "Once Again, Google Caves To Political Pressure And Supports Questionable STOP CSAM Law",
+                    "og:image:height": "512",
+                    "msapplication-tileimage": "https://i0.wp.com/www.techdirt.com/wp-content/uploads/2022/02/cropped-techdirt-square-512x512-1.png?fit=270%2C270&ssl=1",
+                    "og:description": "It\u2019s not surprising, but still disappointing, to see companies like Google and Meta, which used to take strong stands against bad laws, now showing a repeated willingness to cave on such principles\u2026",
+                    "twitter:creator": "@techdirt",
+                    "twitter:image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/techdirt-white-square.png",
+                    "twitter:text:title": "Once Again, Google Caves To Political Pressure And Supports Questionable STOP CSAM Law",
+                    "twitter:site": "@techdirt",
+                    "article:modified_time": "2024-03-12T19:12:51+00:00",
+                    "viewport": "width=device-width, initial-scale=1, user-scalable=no",
                     "og:locale": "en_US",
-                    "og:url": "https://csamconference.org/registration-and-hotels/"
+                    "og:url": "https://www.techdirt.com/2024/03/12/once-again-google-caves-to-political-pressure-and-supports-questionable-stop-csam-law/"
                 }
             ],
             "cse_image": [
                 {
-                    "src": "https://csamconference.org/wp-content/uploads/2023/04/2022-CSAM-SMCA-Day-1-NROMANOFF-166.jpg"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Stricter Penalties, Stronger Support: Impact of the Recast CSAM ...",
-        "htmlTitle": "Stricter Penalties, Stronger Support: Impact of the Recast <b>CSAM</b> ...",
-        "link": "https://www.inhope.org/EN/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive",
-        "displayLink": "www.inhope.org",
-        "snippet": "5 days ago ... In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (CSAM) Directive.",
-        "htmlSnippet": "5 days ago <b>...</b> In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (<b>CSAM</b>) Directive.",
-        "cacheId": "1Nmk6vMxA50J",
-        "formattedUrl": "https://www.inhope.org/.../stricter-penalties-stronger-support-impact-of-the-...",
-        "htmlFormattedUrl": "https://www.inhope.org/.../stricter-penalties-stronger-support-impact-of-the-...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lCJT7r1pS3wZeLSGHCqee8qA6oQmqFZ41zTVW9WrqPhffmlBoI6wPtc&s=0",
-                    "width": "150",
-                    "height": "79"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg",
-                    "og:type": "website",
-                    "twitter:card": "summary",
-                    "twitter:title": "Stricter Penalties, Stronger Support: Impact of the Recast CSAM Directive",
-                    "viewport": "width=device-width,initial-scale=1.0",
-                    "og:image:secure-url": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg",
-                    "twitter:description": "In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (CSAM) Directive.",
-                    "og:title": "Stricter Penalties, Stronger Support: Impact of the Recast CSAM Directive",
-                    "og:url": "https://www.inhope.org/EN/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive",
-                    "og:description": "In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (CSAM) Directive.",
-                    "twitter:image": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Stricter Penalties, Stronger Support: Impact of the Recast CSAM ...",
-        "htmlTitle": "Stricter Penalties, Stronger Support: Impact of the Recast <b>CSAM</b> ...",
-        "link": "https://www.inhope.org/EN/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive",
-        "displayLink": "www.inhope.org",
-        "snippet": "5 days ago ... In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (CSAM) Directive.",
-        "htmlSnippet": "5 days ago <b>...</b> In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (<b>CSAM</b>) Directive.",
-        "cacheId": "1Nmk6vMxA50J",
-        "formattedUrl": "https://www.inhope.org/.../stricter-penalties-stronger-support-impact-of-the-...",
-        "htmlFormattedUrl": "https://www.inhope.org/.../stricter-penalties-stronger-support-impact-of-the-...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lCJT7r1pS3wZeLSGHCqee8qA6oQmqFZ41zTVW9WrqPhffmlBoI6wPtc&s=0",
-                    "width": "150",
-                    "height": "79"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg",
-                    "og:type": "website",
-                    "twitter:card": "summary",
-                    "twitter:title": "Stricter Penalties, Stronger Support: Impact of the Recast CSAM Directive",
-                    "viewport": "width=device-width,initial-scale=1.0",
-                    "og:image:secure-url": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg",
-                    "twitter:description": "In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (CSAM) Directive.",
-                    "og:title": "Stricter Penalties, Stronger Support: Impact of the Recast CSAM Directive",
-                    "og:url": "https://www.inhope.org/EN/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive",
-                    "og:description": "In a landmark step towards safeguarding children, the European Commission has a adopted a draft proposal of the child sexual abuse material (CSAM) Directive.",
-                    "twitter:image": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.inhope.org/media/pages/articles/stricter-penalties-stronger-support-impact-of-the-recast-csam-directive/b074837b1a-1711458725/stricter-penalties-stronger-support-the-recast-csam-directive.jpg"
+                    "src": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
                 }
             ]
         }
@@ -503,19 +229,19 @@
         "kind": "customsearch#result",
         "title": "Centre Stage Artist Management",
         "htmlTitle": "<b>Centre Stage Artist Management</b>",
-        "link": "https://centrestagemanagement.com/",
+        "link": "https://centrestagemanagement.com/en/",
         "displayLink": "centrestagemanagement.com",
-        "snippet": "6 days ago ... M\u00e4rz 2024. Tetelman als Ruggero und Pogolelc als Lisette werden von der Sopranistin Angel Blue und dem Tenor Bekhzod Davronov als Magda und Prunier unterst\u00fctzt.",
-        "htmlSnippet": "6 days ago <b>...</b> M\u00e4rz 2024. Tetelman als Ruggero und Pogolelc als Lisette werden von der Sopranistin Angel Blue und dem Tenor Bekhzod Davronov als Magda und Prunier unterst\u00fctzt.",
-        "cacheId": "tRfAreUquJYJ",
-        "formattedUrl": "https://centrestagemanagement.com/",
-        "htmlFormattedUrl": "https://centrestagemanagement.com/",
+        "snippet": "10 hours ago ... Kate Lindsey: Handel's Messiah in Barcelona. MORE \u00b7 Rolando Villaz\u00f3n: Das Rheingold at the Berlin State Opera. MORE \u00b7 Sondra Radvanovsky: New production of\u00a0...",
+        "htmlSnippet": "10 hours ago <b>...</b> Kate Lindsey: Handel&#39;s Messiah in Barcelona. MORE &middot; Rolando Villaz\u00f3n: Das Rheingold at the Berlin State Opera. MORE &middot; Sondra Radvanovsky: New production of&nbsp;...",
+        "cacheId": "W4eJYpM9mqEJ",
+        "formattedUrl": "https://centrestagemanagement.com/en/",
+        "htmlFormattedUrl": "https://centrestagemanagement.com/en/",
         "pagemap": {
             "cse_thumbnail": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBt87BrpNyXsLBMR8bmPqRgnJybWvgyzT3EqE6x0I6785vacaIdJ81ySmR&s",
-                    "width": "290",
-                    "height": "174"
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFFaXPFK0zKlGBrDLasjCgjKRe_euJMhSgvL4_wJSvLMBa3ExSQR-Z428&s",
+                    "width": "275",
+                    "height": "183"
                 }
             ],
             "metatags": [
@@ -525,401 +251,236 @@
             ],
             "cse_image": [
                 {
-                    "src": "https://centrestagemanagement.com/wp-content/uploads/2024/03/K89-4-2.jpg"
+                    "src": "https://centrestagemanagement.com/wp-content/uploads/2024/02/Kathryn_Lewek_Credit-Simon-Pauly-scaled.jpg"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "Texas man sent terabytes of CSAM to undercover law enforcement ...",
-        "htmlTitle": "Texas man sent terabytes of <b>CSAM</b> to undercover law enforcement ...",
-        "link": "https://www.fox7austin.com/news/san-antonio-texas-man-sentenced-csam-distribution-possession-stephen-aaron-potts",
-        "displayLink": "www.fox7austin.com",
-        "snippet": "Mar 20, 2024 ... A search of his home uncovered numerous electronic devices, one of which contained thousands of videos and images of child sexual abuse material, or CSAM.",
-        "htmlSnippet": "Mar 20, 2024 <b>...</b> A search of his home uncovered numerous electronic devices, one of which contained thousands of videos and images of child sexual abuse material, or <b>CSAM</b>.",
-        "formattedUrl": "https://www.fox7austin.com/.../san-antonio-texas-man-sentenced-csam-distr...",
-        "htmlFormattedUrl": "https://www.fox7austin.com/.../san-antonio-texas-man-sentenced-<b>csam</b>-distr...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkYKu3WTtgoyrxS6lMvL9uY8RtP_y8UIbAt_5UWMQFNKGKURMLxOBhjI&s",
-                    "width": "300",
-                    "height": "168"
-                }
-            ],
-            "metatags": [
-                {
-                    "pagetype": "article",
-                    "dc.publisher": "FOX 7 Austin",
-                    "og:image": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2019/08/1280/720/WEB-jail-prison-bars_1444244181872_317653_ver1.0.jpg?ve=1&tl=1",
-                    "msapplication-square70x70logo": "//static.foxtv.com/static/orion/img/ktbc/favicons/mstile-70x70.png",
-                    "og:image:width": "1280",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "FOX 7 Austin",
-                    "twitter:url": "https://www.fox7austin.com/news/san-antonio-texas-man-sentenced-csam-distribution-possession-stephen-aaron-potts",
-                    "prism.channel": "fts",
-                    "msapplication-wide310x150logo": "//static.foxtv.com/static/orion/img/ktbc/favicons/mstile-310x150.png",
-                    "og:description": "A search of his home uncovered numerous electronic devices, one of which contained thousands of videos and images of child sexual abuse material, or CSAM.",
-                    "twitter:creator": "@fox7austin",
-                    "fox.category": "news",
-                    "prism.aggregationtype": "subsection",
-                    "dcterms.modified": "2024-03-20T16:08:35-05:00",
-                    "msapplication-square310x310logo": "//static.foxtv.com/static/orion/img/ktbc/favicons/mstile-310x310.png",
-                    "strikepagetype": "article",
-                    "twitter:site:id": "@fox7austin",
-                    "content-creator": "tiger",
-                    "dc.date": "2024-03-20",
-                    "msapplication-square150x150logo": "//static.foxtv.com/static/orion/img/ktbc/favicons/mstile-150x150.png",
-                    "prism.stationid": "KTBC_FOX7",
-                    "twitter:creator:id": "@fox7austin",
-                    "fox.app_version": "v77",
-                    "dc.title": "Texas man sent terabytes of CSAM to undercover law enforcement: officials",
-                    "og:locale": "en_US",
-                    "dc.language": "en-US",
-                    "format-detection": "telephone=no",
-                    "fox.name": "Post Landing",
-                    "dc.format": "text/html",
-                    "fox.fix_version": "6.4.1",
-                    "twitter:image": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2019/08/1280/720/WEB-jail-prison-bars_1444244181872_317653_ver1.0.jpg?ve=1&tl=1",
-                    "twitter:site": "@fox7austin",
-                    "prism.stationcallsign": "ktbc",
-                    "dc.type": "Text.Article",
-                    "dc.source": "FOX 7 Austin",
-                    "dc.description": "A search of his home uncovered numerous electronic devices, one of which contained thousands of videos and images of child sexual abuse material, or CSAM.",
-                    "og:type": "article",
-                    "twitter:title": "Texas man sent terabytes of CSAM to undercover law enforcement: officials",
-                    "og:title": "Texas man sent terabytes of CSAM to undercover law enforcement: officials",
-                    "og:image:height": "720",
-                    "dcterms.created": "2024-03-20T16:08:35-05:00",
-                    "fb:app_id": "678036835682522",
-                    "fox.app_build": "no build version",
-                    "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
-                    "twitter:description": "A search of his home uncovered numerous electronic devices, one of which contained thousands of videos and images of child sexual abuse material, or CSAM.",
-                    "prism.section": "news",
-                    "dc.identifier": "urn:uri:base64:103b2dc3-cfb5-50f2-9765-c58de880fd72",
-                    "og:url": "https://www.fox7austin.com/news/san-antonio-texas-man-sentenced-csam-distribution-possession-stephen-aaron-potts",
-                    "dcterms.abstract": "A search of his home uncovered numerous electronic devices, one of which contained thousands of videos and images of child sexual abuse material, or CSAM."
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2019/08/1280/720/WEB-jail-prison-bars_1444244181872_317653_ver1.0.jpg?ve=1&tl=1"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Release 2.17.0.0",
-        "htmlTitle": "Release 2.17.0.0",
-        "link": "https://docs.qualys.com/en/csam/release-notes/cybersecurity_asset_management/release_2_17.htm",
-        "displayLink": "docs.qualys.com",
-        "snippet": "Mar 4, 2024 ... What's New? CSAM pill. CyberSecurity Asset Management. Multiple EASM\u00a0...",
-        "htmlSnippet": "Mar 4, 2024 <b>...</b> What&#39;s New? <b>CSAM</b> pill. CyberSecurity Asset Management. Multiple EASM&nbsp;...",
-        "cacheId": "o-Bk7m6Ok6kJ",
-        "formattedUrl": "https://docs.qualys.com/en/csam/release-notes/...asset.../release_2_17.htm",
-        "htmlFormattedUrl": "https://docs.qualys.com/en/<b>csam</b>/release-notes/...asset.../release_2_17.htm",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpG0FGi9nzNKFfPQMk_yS30omqe41ZQqPPFKscQYMtUx4CEuQaT0CdmbU&s",
-                    "width": "355",
-                    "height": "142"
-                }
-            ],
-            "metatags": [
-                {
-                    "template": "../assets/masterpages/google.htt",
-                    "viewport": "width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes",
-                    "topic-status": "Draft",
-                    "version": "2020.0.0"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://docs.qualys.com/en/csam/release-notes/assets/project_images/csam_2_17/multiprofiles_created.png"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "CSAM \u2013 Euractiv",
-        "htmlTitle": "<b>CSAM</b> \u2013 Euractiv",
-        "link": "https://www.euractiv.com/topics/csam/",
-        "displayLink": "www.euractiv.com",
-        "snippet": "Mar 22, 2024 ... EU Parliament nails down agreement on child sexual abuse regulation ... The main political groups of the EU Parliament reached an agreement on the draft law to\u00a0...",
-        "htmlSnippet": "Mar 22, 2024 <b>...</b> EU Parliament nails down agreement on child sexual abuse regulation ... The main political groups of the EU Parliament reached an agreement on the draft law to&nbsp;...",
-        "cacheId": "dXqdJC3mptMJ",
-        "formattedUrl": "https://www.euractiv.com/topics/csam/",
-        "htmlFormattedUrl": "https://www.euractiv.com/topics/<b>csam</b>/",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvy1tA5Fs0xIKp27TSUcmmxN8NRNZPf-WjLYWlY2HdxVAxfPgVBd2R2Ww&s",
-                    "width": "300",
-                    "height": "168"
-                }
-            ],
-            "metatags": [
-                {
-                    "viewport": "width=device-width",
-                    "onesignal": "wordpress-plugin",
-                    "msapplication-tileimage": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/12/cropped-cropped-Brand-avatar-_-CMYK-1-270x270.jpg",
-                    "fb:pages": "15299247059"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/09/Tech-Brief-1-1-800x450.png"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Deterring Child Sexual Abuse Material (CSAM): Current Thinking ...",
-        "htmlTitle": "Deterring Child Sexual Abuse Material (<b>CSAM</b>): Current Thinking ...",
-        "link": "https://www.usc.edu.au/community/events/deterring-child-sexual-abuse-material-csam-current-thinking-innovations",
-        "displayLink": "www.usc.edu.au",
-        "snippet": "Mar 6, 2024 ... Deterring Child Sexual Abuse Material (CSAM): Current Thinking & Innovations. You can register for this event by scanning the QR code below. Alternatively,\u00a0...",
-        "htmlSnippet": "Mar 6, 2024 <b>...</b> Deterring Child Sexual Abuse Material (<b>CSAM</b>): Current Thinking &amp; Innovations. You can register for this event by scanning the QR code below. Alternatively,&nbsp;...",
-        "cacheId": "LG9JfiiNb3sJ",
-        "formattedUrl": "https://www.usc.edu.au/.../deterring-child-sexual-abuse-material-csam-curre...",
-        "htmlFormattedUrl": "https://www.usc.edu.au/.../deterring-child-sexual-abuse-material-<b>csam</b>-curre...",
-        "pagemap": {
-            "metatags": [
-                {
-                    "application-name": "University of the Sunshine Coast",
-                    "msapplication-tilecolor": "#0077c8",
-                    "og:type": "website",
-                    "twitter:card": "summary_large_image",
-                    "twitter:title": "Deterring Child Sexual Abuse Material (CSAM): Current Thinking & Innovations",
-                    "og:title": "Deterring Child Sexual Abuse Material (CSAM): Current Thinking & Innovations",
-                    "msapplication-tileimage": "apple-touch-icon.png",
-                    "og:description": "The Sexual Violence Research and Prevention Unit are excited to announce that registrations are now open for their in-person public seminar on Thursday,18th April, 2024.",
-                    "twitter:creator": "@unisunshinecoast",
-                    "facebook-domain-verification": "3ewjh6icul31qozpfexlp4jvg59hvx",
-                    "twitter:site": "@unisunshinecoast",
-                    "viewport": "width=device-width, initial-scale=1",
-                    "twitter:description": "The Sexual Violence Research and Prevention Unit are excited to announce that registrations are now open for their in-person public seminar on Thursday,18th April, 2024.",
-                    "og:url": "https://www.usc.edu.au/community/events/deterring-child-sexual-abuse-material-csam-current-thinking-innovations"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "NCMEC on Instagram: \"Generative AI CSAM is CSAM. The creation ...",
-        "htmlTitle": "NCMEC on Instagram: &quot;Generative AI <b>CSAM</b> is <b>CSAM</b>. The creation ...",
-        "link": "https://www.instagram.com/missingkids/p/C4ancjjOSip/",
-        "displayLink": "www.instagram.com",
-        "snippet": "Mar 12, 2024 ... 148 likes, 3 comments - missingkids on March 12, 2024: \"Generative AI CSAM is CSAM. The creation and circulation of GAI CSAM (Generative AI Child Sexual\u00a0...",
-        "htmlSnippet": "Mar 12, 2024 <b>...</b> 148 likes, 3 comments - missingkids on March 12, 2024: &quot;Generative AI <b>CSAM</b> is <b>CSAM</b>. The creation and circulation of GAI <b>CSAM</b> (Generative AI Child Sexual&nbsp;...",
-        "formattedUrl": "https://www.instagram.com/missingkids/p/C4ancjjOSip/",
-        "htmlFormattedUrl": "https://www.instagram.com/missingkids/p/C4ancjjOSip/",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3808cBZ7ftHddvSPj2VppLIYMUqqhMrIJVXPfn3-Z-q7GRl4aUdB5-V0&s",
-                    "width": "160",
-                    "height": "160"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/432604667_1349674042367866_1021172925885251400_n.jpg?stp=c288.0.864.864a_dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=6mLW713ENfYAX_e1jZO&_nc_ht=scontent-dfw5-2.cdninstagram.com&oh=00_AfAloqOa48xlet8iqoOsSRsAcMd9QXa10k_9pPoRV4dheQ&oe=65F57AE7",
-                    "theme-color": "#ffffff",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "Instagram",
-                    "al:android:package": "com.instagram.android",
-                    "medium": "image",
-                    "al:ios:url": "instagram://media?id=3322141161270356137",
-                    "og:description": "148 likes, 3 comments - missingkids on March 12, 2024: \"Generative AI CSAM is CSAM. \n\nThe creation and circulation of GAI CSAM (Generative AI Child Sexual Abuse Material) is harmful and illegal.\n\nNCMEC calls on GAI technology creators, legislators and child serving professionals to come together and find a way to prioritize child safety while this innovative technology continues to evolve. Read out latest blog at the link in our bio.\"",
-                    "twitter:image": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/432604667_1349674042367866_1021172925885251400_n.jpg?stp=c288.0.864.864a_dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=6mLW713ENfYAX_e1jZO&_nc_ht=scontent-dfw5-2.cdninstagram.com&oh=00_AfAloqOa48xlet8iqoOsSRsAcMd9QXa10k_9pPoRV4dheQ&oe=65F57AE7",
-                    "al:ios:app_store_id": "389801252",
-                    "twitter:site": "@instagram",
-                    "instapp:owner_user_id": "1570411862",
-                    "og:type": "article",
-                    "twitter:title": "NCMEC (@missingkids) \u2022 Instagram photo",
-                    "al:ios:app_name": "Instagram",
-                    "og:title": "NCMEC on Instagram: \"Generative AI CSAM is CSAM. \n\nThe creation and circulation of GAI CSAM (Generative AI Child Sexual Abuse Material) is harmful and illegal.\n\nNCMEC calls on GAI technology creators, legislators and child serving professionals to come together and find a way to prioritize child safety while this innovative technology continues to evolve. Read out latest blog at the link in our bio.\"",
-                    "twitter:maxage": "86400",
-                    "color-scheme": "light",
-                    "al:android:url": "https://www.instagram.com/missingkids/p/C4ancjjOSip/",
-                    "fb:app_id": "124024574287414",
-                    "apple-mobile-web-app-status-bar-style": "default",
-                    "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
-                    "mobile-web-app-capable": "yes",
-                    "og:url": "https://www.instagram.com/p/C4ancjjOSip/",
-                    "al:android:app_name": "Instagram"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "x-raw-image:///7c26a441e8f1a26613711a8f79913c377cfc63a23a0a8be2c95404df76dd8a06"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "AI-Generated Child Sexual Abuse Material (CSAM): A Minefield of ...",
-        "htmlTitle": "AI-Generated Child Sexual Abuse Material (<b>CSAM</b>): A Minefield of ...",
-        "link": "https://ndaajustice.medium.com/ai-generated-child-sexual-abuse-material-csam-a-minefield-of-legal-and-technical-challenges-0f18f785149f",
-        "displayLink": "ndaajustice.medium.com",
-        "snippet": "Mar 14, 2024 ... ... CSAM-related offenses [1]. Legal Challenges. The primary difficulty in prosecuting AI-generated CSAM lies in the traditional legal frameworks that define\u00a0...",
-        "htmlSnippet": "Mar 14, 2024 <b>...</b> ... <b>CSAM</b>-related offenses [1]. Legal Challenges. The primary difficulty in prosecuting AI-generated <b>CSAM</b> lies in the traditional legal frameworks that define&nbsp;...",
-        "cacheId": "oFUjKK8ni2kJ",
-        "formattedUrl": "https://ndaajustice.medium.com/ai-generated-child-sexual-abuse-material-cs...",
-        "htmlFormattedUrl": "https://ndaajustice.medium.com/ai-generated-child-sexual-abuse-material-<b>cs</b>...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0PuTiT0MqOpEsNnLJ4t9uQs99zX7knDG40MM3LSAXzDGxLFk4ohDOw&s=0",
-                    "width": "135",
-                    "height": "76"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://miro.medium.com/v2/da:true/resize:fit:600/1*ktMj2xj84_0mprR46mXG9A.gif",
-                    "twitter:app:url:iphone": "medium://p/0f18f785149f",
-                    "theme-color": "#000000",
-                    "article:published_time": "2024-03-15T05:10:32.760Z",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "Medium",
-                    "al:android:package": "com.medium.reader",
-                    "twitter:label1": "Reading time",
-                    "twitter:tile:template:testing": "2",
-                    "twitter:app:id:iphone": "828256236",
-                    "title": "AI-Generated Child Sexual Abuse Material (CSAM): A Minefield of Legal and Technical Challenges | by National District Attorneys Association | Mar, 2024 | Medium",
-                    "al:ios:url": "medium://p/0f18f785149f",
-                    "og:description": "Warning: The following article discusses child sexual abuse and may be disturbing for some readers.",
-                    "twitter:creator": "@ndaajustice",
-                    "al:ios:app_store_id": "828256236",
-                    "twitter:data1": "5 min read",
-                    "twitter:site": "@Medium",
-                    "twitter:tile:info1:text": "National District Attorneys Association",
-                    "twitter:tile:info1:icon": "Person",
-                    "og:type": "article",
-                    "twitter:title": "AI-Generated Child Sexual Abuse Material (CSAM): A Minefield of Legal and Technical Challenges",
-                    "al:ios:app_name": "Medium",
-                    "twitter:cta": "Read on Medium",
-                    "author": "National District Attorneys Association",
-                    "og:title": "AI-Generated Child Sexual Abuse Material (CSAM): A Minefield of Legal and Technical Challenges",
-                    "al:web:url": "https://ndaajustice.medium.com/ai-generated-child-sexual-abuse-material-csam-a-minefield-of-legal-and-technical-challenges-0f18f785149f",
-                    "article:author": "https://ndaajustice.medium.com",
-                    "twitter:tile:info2:text": "Mar 14, 2024",
-                    "twitter:image:src": "https://miro.medium.com/v2/da:true/resize:fit:600/1*ktMj2xj84_0mprR46mXG9A.gif",
-                    "al:android:url": "medium://p/0f18f785149f",
-                    "referrer": "unsafe-url",
-                    "fb:app_id": "542599432471018",
-                    "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
-                    "twitter:tile:info2:icon": "Calendar",
-                    "twitter:description": "Warning: The following article discusses child sexual abuse and may be disturbing for some readers.",
-                    "twitter:tile:image": "https://miro.medium.com/v2/da:true/resize:fit:600/1*ktMj2xj84_0mprR46mXG9A.gif",
-                    "og:url": "https://ndaajustice.medium.com/ai-generated-child-sexual-abuse-material-csam-a-minefield-of-legal-and-technical-challenges-0f18f785149f",
-                    "twitter:app:name:iphone": "Medium",
-                    "al:android:app_name": "Medium"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://miro.medium.com/v2/da:true/resize:fit:600/1*ktMj2xj84_0mprR46mXG9A.gif"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Katherine Dee on X: \"Lots of deeply disturbing CSAM stories ...",
-        "htmlTitle": "Katherine Dee on X: &quot;Lots of deeply disturbing <b>CSAM</b> stories ...",
-        "link": "https://twitter.com/default_friend/status/1768118885390205158",
+        "title": "IMEGA on X: \"CSAM aka \"Customer Success Account Managers ...",
+        "htmlTitle": "IMEGA on X: &quot;<b>CSAM</b> aka &quot;Customer Success Account Managers ...",
+        "link": "https://twitter.com/IMEGA_Arts/status/1773964840836415944",
         "displayLink": "twitter.com",
-        "snippet": "Mar 13, 2024 ... Lots of deeply disturbing CSAM stories breaking this month. I am depressed now. 3:36 AM \u00b7 Mar 14, 2024. \u00b7. 2,437. Views.",
-        "htmlSnippet": "Mar 13, 2024 <b>...</b> Lots of deeply disturbing <b>CSAM</b> stories breaking this month. I am depressed now. 3:36 AM \u00b7 Mar 14, 2024. \u00b7. 2,437. Views.",
-        "cacheId": "O4oHUrEdzqAJ",
-        "formattedUrl": "https://twitter.com/default_friend/status/1768118885390205158",
-        "htmlFormattedUrl": "https://twitter.com/default_friend/status/1768118885390205158",
+        "snippet": "6 days ago ... CSAM aka \"Customer Success Account Managers.\" Yeah I have meet some of those account managers. Aside from that everything you say seems to be BS and lies.",
+        "htmlSnippet": "6 days ago <b>...</b> <b>CSAM</b> aka &quot;Customer Success Account Managers.&quot; Yeah I have meet some of those account managers. Aside from that everything you say seems to be BS and lies.",
+        "cacheId": "EYEbGTPQ74QJ",
+        "formattedUrl": "https://twitter.com/IMEGA_Arts/status/1773964840836415944",
+        "htmlFormattedUrl": "https://twitter.com/IMEGA_Arts/status/1773964840836415944",
         "pagemap": {
-            "cse_thumbnail": [
+            "imageobject": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_06N_HZgU4c09RKSM2Qv_k4g6AIX8zrKrpaMibVZiNGsIW-ltvsIEswo&s",
-                    "width": "200",
-                    "height": "200"
+                    "contenturl": "https://pbs.twimg.com/media/GJ5ja3wWYAAUrrm.png",
+                    "width": "479",
+                    "caption": "Image",
+                    "thumbnailurl": "https://pbs.twimg.com/media/GJ5ja3wWYAAUrrm?format=jpg&name=thumb"
+                },
+                {
+                    "contenturl": "https://pbs.twimg.com/media/GJ5jcsrWIAAITrb.png",
+                    "width": "480",
+                    "caption": "Image",
+                    "thumbnailurl": "https://pbs.twimg.com/media/GJ5jcsrWIAAITrb?format=jpg&name=thumb"
                 }
             ],
             "person": [
                 {
-                    "identifier": "1010901148008681478",
-                    "givenname": "Katherine Dee",
-                    "additionalname": "default_friend"
+                    "identifier": "1020820797101944832",
+                    "givenname": "IMEGA",
+                    "additionalname": "IMEGA_Arts"
                 }
             ],
             "interactioncounter": [
                 {
-                    "userinteractioncount": "43284",
+                    "userinteractioncount": "1402",
                     "interactiontype": "https://schema.org/FollowAction",
                     "name": "Likes"
                 },
                 {
-                    "userinteractioncount": "3895",
+                    "userinteractioncount": "3466",
                     "interactiontype": "https://schema.org/SubscribeAction",
                     "name": "Retweets"
                 },
                 {
-                    "userinteractioncount": "15017",
+                    "userinteractioncount": "78348",
                     "interactiontype": "https://schema.org/LikeAction",
                     "name": "Quotes"
                 },
                 {
-                    "userinteractioncount": "21",
+                    "userinteractioncount": "1",
                     "interactiontype": "https://schema.org/LikeAction",
                     "name": "Likes",
-                    "url": "https://twitter.com/default_friend/status/1768118885390205158/likes"
+                    "url": "https://twitter.com/IMEGA_Arts/status/1773964840836415944/likes"
                 },
                 {
-                    "userinteractioncount": "0",
+                    "userinteractioncount": "1",
                     "interactiontype": "https://schema.org/InteractAction",
                     "name": "Retweets",
-                    "url": "https://twitter.com/default_friend/status/1768118885390205158/retweets"
+                    "url": "https://twitter.com/IMEGA_Arts/status/1773964840836415944/retweets"
                 },
                 {
                     "userinteractioncount": "0",
                     "interactiontype": "https://schema.org/InteractAction",
                     "name": "Quotes",
-                    "url": "https://twitter.com/default_friend/status/1768118885390205158/retweets/with_comments"
+                    "url": "https://twitter.com/IMEGA_Arts/status/1773964840836415944/retweets/with_comments"
                 },
                 {
-                    "userinteractioncount": "5",
+                    "userinteractioncount": "1",
                     "interactiontype": "https://schema.org/InteractAction",
                     "name": "Replies",
-                    "url": "https://twitter.com/default_friend/status/1768118885390205158"
+                    "url": "https://twitter.com/IMEGA_Arts/status/1773964840836415944"
                 }
             ],
             "metatags": [
                 {
-                    "og:image": "https://pbs.twimg.com/profile_images/1755766863471026176/_Qu5MVS3_200x200.jpg",
+                    "og:image": "https://pbs.twimg.com/media/GJ5ja3wWYAAUrrm.png:large",
                     "theme-color": "#FFFFFF",
                     "og:type": "article",
                     "og:site_name": "X (formerly Twitter)",
                     "al:ios:app_name": "X",
                     "apple-mobile-web-app-title": "Twitter",
-                    "og:title": "Katherine Dee (@default_friend) on X",
+                    "og:title": "IMEGA (@IMEGA_Arts) on X",
                     "al:android:package": "com.twitter.android",
-                    "al:ios:url": "twitter://status?id=1768118885390205158",
-                    "title": "Katherine Dee (@default_friend) on X",
-                    "og:description": "Lots of deeply disturbing CSAM stories breaking this month. I am depressed now.",
+                    "al:ios:url": "twitter://status?id=1773964840836415944",
+                    "title": "IMEGA (@IMEGA_Arts) on X",
+                    "og:description": "CSAM aka \"Customer Success Account Managers.\"\nYeah I have meet some of those account managers.\n\nAside from that everything you say seems to be BS and lies.\nFunny I don't see em showing. I see twitter thinks you're so full of BS that they limit your posts and visibility.\ud83e\udd23",
                     "al:ios:app_store_id": "333903271",
                     "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
-                    "al:android:url": "twitter://status?id=1768118885390205158",
+                    "al:android:url": "twitter://status?id=1773964840836415944",
                     "fb:app_id": "2231777543",
                     "apple-mobile-web-app-status-bar-style": "white",
                     "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
                     "mobile-web-app-capable": "yes",
-                    "og:url": "https://twitter.com/default_friend/status/1768118885390205158",
+                    "og:url": "https://twitter.com/IMEGA_Arts/status/1773964840836415944",
+                    "al:android:app_name": "X"
+                }
+            ],
+            "collection": [
+                {
+                    "name": "Post with replies"
+                }
+            ],
+            "creativework": [
+                {
+                    "name": "Expanded Tweet URLs",
+                    "url": "https://t.co/k6MxJELZA5"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://pbs.twimg.com/media/GJ5ja3wWYAAUrrm.png:large"
+                }
+            ],
+            "socialmediaposting": [
+                {
+                    "identifier": "1773964840836415944",
+                    "commentcount": "1",
+                    "articlebody": "CSAM aka \"Customer Success Account Managers.\" Yeah I have meet some of those account managers. Aside from that everything you say seems to be BS and lies. Funny I don't see em showing. I see...",
+                    "position": "1",
+                    "datecreated": "2024-03-30T06:45:51.000Z",
+                    "isbasedon": "https://twitter.com/Kimota1977/status/1773899028855505251",
+                    "datepublished": "2024-03-30T06:45:51.000Z",
+                    "url": "https://twitter.com/IMEGA_Arts/status/1773964840836415944",
+                    "mainentityofpage": "https://twitter.com/IMEGA_Arts/status/1773964840836415944"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "suku brainrot crw: gintama on X: \"// CSEM/CSAM mention turn off ...",
+        "htmlTitle": "suku brainrot crw: gintama on X: &quot;// CSEM/<b>CSAM</b> mention turn off ...",
+        "link": "https://twitter.com/bonnvivre/status/1775534743993680140",
+        "displayLink": "twitter.com",
+        "snippet": "1 day ago ... CSEM/CSAM mention turn off autoplay so videos and gifs don't automatically play. if you accidentally come across something like this, report to the\u00a0...",
+        "htmlSnippet": "1 day ago <b>...</b> CSEM/<b>CSAM</b> mention turn off autoplay so videos and gifs don&#39;t automatically play. if you accidentally come across something like this, report to the&nbsp;...",
+        "cacheId": "5lzJ-lv_oPYJ",
+        "formattedUrl": "https://twitter.com/bonnvivre/status/1775534743993680140",
+        "htmlFormattedUrl": "https://twitter.com/bonnvivre/status/1775534743993680140",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2E8sIiVoCqXjNX8laEWd4s1oAAj-HNJdFTlituFlAinoSk_RcOvcG7w5Z&s",
+                    "width": "347",
+                    "height": "145"
+                }
+            ],
+            "imageobject": [
+                {
+                    "contenturl": "https://pbs.twimg.com/media/GKDpkVPXcAAHr0X.jpg",
+                    "width": "1290",
+                    "caption": "Image",
+                    "thumbnailurl": "https://pbs.twimg.com/media/GKDpkVPXcAAHr0X?format=jpg&name=thumb"
+                }
+            ],
+            "person": [
+                {
+                    "identifier": "1115460135579611137",
+                    "givenname": "suku brainrot \ud83c\udf31 crw: gintama",
+                    "additionalname": "bonnvivre"
+                }
+            ],
+            "interactioncounter": [
+                {
+                    "userinteractioncount": "400",
+                    "interactiontype": "https://schema.org/FollowAction",
+                    "name": "Likes"
+                },
+                {
+                    "userinteractioncount": "190",
+                    "interactiontype": "https://schema.org/SubscribeAction",
+                    "name": "Retweets"
+                },
+                {
+                    "userinteractioncount": "17058",
+                    "interactiontype": "https://schema.org/LikeAction",
+                    "name": "Quotes"
+                },
+                {
+                    "userinteractioncount": "3",
+                    "interactiontype": "https://schema.org/LikeAction",
+                    "name": "Likes",
+                    "url": "https://twitter.com/bonnvivre/status/1775534743993680140/likes"
+                },
+                {
+                    "userinteractioncount": "3",
+                    "interactiontype": "https://schema.org/InteractAction",
+                    "name": "Retweets",
+                    "url": "https://twitter.com/bonnvivre/status/1775534743993680140/retweets"
+                },
+                {
+                    "userinteractioncount": "0",
+                    "interactiontype": "https://schema.org/InteractAction",
+                    "name": "Quotes",
+                    "url": "https://twitter.com/bonnvivre/status/1775534743993680140/retweets/with_comments"
+                },
+                {
+                    "userinteractioncount": "0",
+                    "interactiontype": "https://schema.org/InteractAction",
+                    "name": "Replies",
+                    "url": "https://twitter.com/bonnvivre/status/1775534743993680140"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://pbs.twimg.com/profile_images/1775158022631030784/7E4u6qYH_200x200.jpg",
+                    "theme-color": "#FFFFFF",
+                    "og:type": "article",
+                    "og:site_name": "X (formerly Twitter)",
+                    "al:ios:app_name": "X",
+                    "apple-mobile-web-app-title": "Twitter",
+                    "og:title": "suku brainrot \ud83c\udf31 crw: gintama (@bonnvivre) on X",
+                    "al:android:package": "com.twitter.android",
+                    "al:ios:url": "twitter://status?id=1775534743993680140",
+                    "title": "suku brainrot \ud83c\udf31 crw: gintama (@bonnvivre) on X",
+                    "og:description": "// CSEM/CSAM mention\n\nturn off autoplay so videos and gifs don\u2019t automatically play. if you accidentally come across something like this, report to the authorities and CLEAR YOUR CACHE. not surprised, elon unbanned a guy who posted THAT CSEM vid but this is real sickening.",
+                    "al:ios:app_store_id": "333903271",
+                    "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                    "al:android:url": "twitter://status?id=1775534743993680140",
+                    "fb:app_id": "2231777543",
+                    "apple-mobile-web-app-status-bar-style": "white",
+                    "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                    "mobile-web-app-capable": "yes",
+                    "og:url": "https://twitter.com/bonnvivre/status/1775534743993680140",
                     "al:android:app_name": "X"
                 }
             ],
@@ -930,740 +491,655 @@
             ],
             "cse_image": [
                 {
-                    "src": "https://pbs.twimg.com/profile_images/1755766863471026176/_Qu5MVS3_200x200.jpg"
+                    "src": "https://pbs.twimg.com/media/GKDpkVPXcAAHr0X?format=jpg&name=large"
                 }
             ],
             "socialmediaposting": [
                 {
-                    "identifier": "1768118885390205158",
-                    "commentcount": "5",
-                    "articlebody": "Lots of deeply disturbing CSAM stories breaking this month. I am depressed now.",
+                    "identifier": "1775534743993680140",
+                    "commentcount": "0",
+                    "articlebody": "// CSEM/CSAM mention turn off autoplay so videos and gifs don\u2019t automatically play. if you accidentally come across something like this, report to the authorities and CLEAR YOUR CACHE. not...",
                     "position": "1",
-                    "datecreated": "2024-03-14T03:36:06.000Z",
-                    "datepublished": "2024-03-14T03:36:06.000Z",
-                    "url": "https://twitter.com/default_friend/status/1768118885390205158",
-                    "mainentityofpage": "https://twitter.com/default_friend/status/1768118885390205158"
+                    "datecreated": "2024-04-03T14:44:05.000Z",
+                    "isbasedon": "https://twitter.com/Solidarity_Star/status/1774675065965011118",
+                    "datepublished": "2024-04-03T14:44:05.000Z",
+                    "url": "https://twitter.com/bonnvivre/status/1775534743993680140",
+                    "mainentityofpage": "https://twitter.com/bonnvivre/status/1775534743993680140"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "Office of Public Affairs | Man Convicted of Multiple Child Exploitation ...",
-        "htmlTitle": "Office of Public Affairs | Man Convicted of Multiple Child Exploitation ...",
-        "link": "https://www.justice.gov/opa/pr/man-convicted-multiple-child-exploitation-offenses",
-        "displayLink": "www.justice.gov",
-        "snippet": "Mar 6, 2024 ... A federal jury convicted a Nevada man yesterday for sexually exploiting multiple minors, and advertising and distributing child sexual abuse material (CSAM)\u00a0...",
-        "htmlSnippet": "Mar 6, 2024 <b>...</b> A federal jury convicted a Nevada man yesterday for sexually exploiting multiple minors, and advertising and distributing child sexual abuse material (<b>CSAM</b>)&nbsp;...",
-        "cacheId": "A1ZGEccEH5UJ",
-        "formattedUrl": "https://www.justice.gov/.../man-convicted-multiple-child-exploitation-offen...",
-        "htmlFormattedUrl": "https://www.justice.gov/.../man-convicted-multiple-child-exploitation-offen...",
+        "title": "Registered Sex Offender Sentenced to 15 years In Prison For ...",
+        "htmlTitle": "Registered Sex Offender Sentenced to 15 years In Prison For ...",
+        "link": "https://www.dharlawllp.com/registered-sex-offender-sentenced-to-15-years-in-prison-for-possessing-child-sexual-abuse-material-csam/",
+        "displayLink": "www.dharlawllp.com",
+        "snippet": "Mar 5, 2024 ... ... (CSAM). A registered sex offender's group messaging activities led to a conviction for receipt and possession of child sexual abuse material (CSAM). Angel\u00a0...",
+        "htmlSnippet": "Mar 5, 2024 <b>...</b> ... (<b>CSAM</b>). A registered sex offender&#39;s group messaging activities led to a conviction for receipt and possession of child sexual abuse material (<b>CSAM</b>). Angel&nbsp;...",
+        "formattedUrl": "https://www.dharlawllp.com/registered-sex-offender-sentenced-to-15-years-...",
+        "htmlFormattedUrl": "https://www.dharlawllp.com/registered-sex-offender-sentenced-to-15-years-...",
         "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShz09gnUqIC5hApYlhj3effRqZnE3PNLfAEDVK3S253G-8Uz1D95Zs7qI&s",
-                    "width": "200",
-                    "height": "200"
-                }
-            ],
             "metatags": [
                 {
-                    "og:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
                     "og:type": "article",
-                    "article:published_time": "2024-03-06T15:18:06-05:00",
-                    "twitter:title": "Man Convicted of Multiple Child Exploitation Offenses",
-                    "article:modified_time": "2024-03-06T17:11:18-05:00",
-                    "handheldfriendly": "true",
-                    "viewport": "width=device-width, initial-scale=1.0",
-                    "og:title": "Man Convicted of Multiple Child Exploitation Offenses",
-                    "mobileoptimized": "width",
-                    "og:description": "A federal jury convicted a Nevada man yesterday for sexually exploiting multiple minors, and advertising and distributing child sexual abuse material (CSAM) that he coerced these minors into producing.",
-                    "twitter:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "How to pronounce Csam | HowToPronounce.com",
-        "htmlTitle": "How to pronounce <b>Csam</b> | HowToPronounce.com",
-        "link": "https://www.howtopronounce.com/csam",
-        "displayLink": "www.howtopronounce.com",
-        "snippet": "Mar 24, 2024 ... How to say Csam in English? Pronunciation of Csam with 2 audio pronunciations, 1 meaning and more for Csam.",
-        "htmlSnippet": "Mar 24, 2024 <b>...</b> How to say <b>Csam</b> in English? Pronunciation of <b>Csam</b> with 2 audio pronunciations, 1 meaning and more for <b>Csam</b>.",
-        "cacheId": "Q15ydUFAW4UJ",
-        "formattedUrl": "https://www.howtopronounce.com/csam",
-        "htmlFormattedUrl": "https://www.howtopronounce.com/<b>csam</b>",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56okO7zO6CS7syDmMduB9e7Uz05FwDUFQwDNCzXcISaqpPaDKFPS37Ag&s",
-                    "width": "310",
-                    "height": "163"
-                }
-            ],
-            "metatags": [
-                {
-                    "msapplication-tilecolor": "#ffffff",
-                    "og:image": "https://media.howtopronounce.com/ogimg/ce970bdd17c39d7fe3e1f98e8f14d268.png",
-                    "theme-color": "#A6CD38",
-                    "og:type": "Website",
-                    "og:image:width": "1200",
-                    "twitter:title": "Csam Pronunciation",
-                    "twitter:card": "summary_large_image",
-                    "og:title": "Csam Pronunciation",
-                    "og:image:height": "630",
-                    "msapplication-tileimage": "/ms-icon-144x144.png",
-                    "og:updated_time": "1649756450",
-                    "og:description": "How to say Csam in English? Pronunciation of Csam with 2 audio pronunciations, 1 meaning and more for Csam.",
-                    "twitter:creator": "@how2pronounce",
-                    "twitter:image": "https://media.howtopronounce.com/ogimg/ce970bdd17c39d7fe3e1f98e8f14d268.png",
-                    "fb:app_id": "406917439982964",
-                    "twitter:site": "@how2pronounce",
-                    "viewport": "width=device-width,initial-scale=1.0",
-                    "twitter:description": "How to say Csam in English? Pronunciation of Csam with 2 audio pronunciations, 1 meaning and more for Csam.",
-                    "csrf-token": "cuAqEQq57ZcmhRwKYtyx7AMio6eTeCjlK3WlhhtR",
-                    "og:url": "https://www.howtopronounce.com/csam",
-                    "og:audio": "https://en-audio.howtopronounce.com/06a7ed2576b0c91f6fca97751f989f5a.mp3"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://media.howtopronounce.com/ogimg/ce970bdd17c39d7fe3e1f98e8f14d268.png"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Spain Conducts Their Largest-Ever CSAM Investigation To Date ...",
-        "htmlTitle": "Spain Conducts Their Largest-Ever <b>CSAM</b> Investigation To Date ...",
-        "link": "https://childrescuecoalition.org/spain-conducts-their-largest-ever-csam-investigation-to-date/",
-        "displayLink": "childrescuecoalition.org",
-        "snippet": "Mar 15, 2024 ... In November, the Central Cybercrime Unit in Spain arrested over 120 offenders in their largest-ever CSAM investigation. With the use of CRC Technology,\u00a0...",
-        "htmlSnippet": "Mar 15, 2024 <b>...</b> In November, the Central Cybercrime Unit in Spain arrested over 120 offenders in their largest-ever <b>CSAM</b> investigation. With the use of CRC Technology,&nbsp;...",
-        "cacheId": "aAUwMBs0W-cJ",
-        "formattedUrl": "https://childrescuecoalition.org/spain-conducts-their-largest-ever-csam-inve...",
-        "htmlFormattedUrl": "https://childrescuecoalition.org/spain-conducts-their-largest-ever-<b>csam</b>-inve...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAtSWbfrXUSkf_JHduKVTgnt3zh5uoVxTcfuYJU4WklkyuqMSsteuTimS&s",
-                    "width": "259",
-                    "height": "194"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://childrescuecoalition.org/wp-content/uploads/2024/03/Cybercrime_Illustration_copy.jpg",
-                    "og:type": "article",
-                    "article:published_time": "2024-03-15T14:16:35+00:00",
-                    "og:image:width": "800",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "Child Rescue Coalition",
-                    "tec-api-origin": "https://childrescuecoalition.org",
-                    "author": "Elisa Pisana",
-                    "og:title": "Spain Conducts Their Largest-Ever CSAM Investigation To Date - Child Rescue Coalition",
-                    "og:image:height": "600",
-                    "twitter:label1": "Written by",
-                    "twitter:label2": "Est. reading time",
-                    "og:image:type": "image/jpeg",
-                    "msapplication-tileimage": "https://childrescuecoalition.org/wp-content/uploads/2024/02/new-favicon.png",
-                    "og:description": "In November, the Central Cybercrime Unit in Spain arrested over 120 offenders in their largest-ever CSAM investigation. With the use of CRC Technology, police were able to identify these predators \u2026 Continue reading \"Spain Conducts Their Largest-Ever CSAM Investigation To Date\"",
-                    "twitter:data1": "Elisa Pisana",
-                    "twitter:data2": "2 minutes",
-                    "article:modified_time": "2024-03-15T14:16:43+00:00",
+                    "article:published_time": "2024-03-05T16:10:29+00:00",
+                    "twitter:card": "summary",
+                    "twitter:title": "Registered Sex Offender Sentenced to 15 years In Prison For possessing child sexual abuse material (CSAM) | Dhar Law LLP",
+                    "og:site_name": "Dhar Law LLP | Boston Criminal Defense",
+                    "og:title": "Registered Sex Offender Sentenced to 15 years In Prison For possessing child sexual abuse material (CSAM) | Dhar Law LLP",
+                    "msapplication-tileimage": "https://www.dharlawllp.com/wp-content/uploads/2021/05/cropped-site-icon-270x270.png",
+                    "og:description": "A registered sex offender\u2019s group messaging activities led to a conviction for receipt and possession of child sexual abuse material (CSAM). Angel Figueroa, 51, of Fall River, was sentenced by U.S. District Court Judge Indira Talwani for receiving and possessing child sexual abuse material (CSAM) via groups on a messaging app. He was also ordered",
+                    "article:modified_time": "2024-03-05T16:17:41+00:00",
                     "viewport": "width=device-width, initial-scale=1",
+                    "twitter:description": "A registered sex offender\u2019s group messaging activities led to a conviction for receipt and possession of child sexual abuse material (CSAM). Angel Figueroa, 51, of Fall River, was sentenced by U.S. District Court Judge Indira Talwani for receiving and possessing child sexual abuse material (CSAM) via groups on a messaging app. He was also ordered",
                     "og:locale": "en_US",
-                    "og:url": "https://childrescuecoalition.org/spain-conducts-their-largest-ever-csam-investigation-to-date/",
-                    "tec-api-version": "v1"
+                    "og:url": "https://www.dharlawllp.com/registered-sex-offender-sentenced-to-15-years-in-prison-for-possessing-child-sexual-abuse-material-csam/"
                 }
             ],
-            "cse_image": [
+            "webpage": [
                 {
-                    "src": "https://childrescuecoalition.org/wp-content/uploads/2024/03/Cybercrime_Illustration_copy.jpg"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Moncks Corner man arrested on CSAM charges | Berkeley ...",
-        "htmlTitle": "Moncks Corner man arrested on <b>CSAM</b> charges | Berkeley ...",
-        "link": "https://www.postandcourier.com/berkeley-independent/moncks-corner-man-arrested-on-csam-charges/article_63e8dab4-eb7f-11ee-b902-f7f46eb4d2ac.html",
-        "displayLink": "www.postandcourier.com",
-        "snippet": "6 days ago ... Editor's note: Child sexual abuse material, or CSAM, is a more accurate reflection of the material involved in these crimes. \u201cPornography\u201d can imply the\u00a0...",
-        "htmlSnippet": "6 days ago <b>...</b> Editor&#39;s note: Child sexual abuse material, or <b>CSAM</b>, is a more accurate reflection of the material involved in these crimes. \u201cPornography\u201d can imply the&nbsp;...",
-        "formattedUrl": "https://www.postandcourier.com/...csam.../article_63e8dab4-eb7f-11ee-b90...",
-        "htmlFormattedUrl": "https://www.postandcourier.com/...<b>csam</b>.../article_63e8dab4-eb7f-11ee-b90...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ZJR6crpNznwWI12KKzp7m3WvkYufBpxUtCAfT5Fh0Eg4zT2XdKIfDcA&s",
-                    "width": "200",
-                    "height": "200"
+                    "headline": "dharlawllp",
+                    "url": "Our Team"
                 }
             ],
-            "imageobject": [
+            "creativework": [
                 {
-                    "width": "200",
-                    "url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/34/a34b97e6-eb7f-11ee-9d6d-03636c144b66/6602dff3171c7.image.jpg?crop=431%2C431%2C0%2C53&resize=200%2C200&order=crop%2Cresize",
-                    "height": "200"
+                    "text": "A registered sex offender\u2019s group messaging activities led to a conviction for receipt and possession of child sexual abuse material (CSAM). Angel Figueroa, 51, of Fall River, was sentenced...",
+                    "headline": "Registered Sex Offender Sentenced to 15 years In Prison For possessing child sexual abuse material (CSAM)"
+                }
+            ],
+            "wpheader": [
+                {
+                    "headline": "Dhar Law LLP"
+                }
+            ],
+            "wpsidebar": [
+                {
+                    "headline": "Twelve Year Sentence For Methamphetamine Conspiracy Conviction: What Is A Methamphetamine Conspiracy? How Do You Fight Federal Drug Trafficking Conspiracy Charges?"
+                }
+            ],
+            "listitem": [
+                {
+                    "item": "Home",
+                    "name": "Home",
+                    "position": "1"
                 },
                 {
-                    "contenturl": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/34/a34b97e6-eb7f-11ee-9d6d-03636c144b66/6602dff3171c7.image.jpg?resize=401%2C500",
-                    "width": "431",
-                    "url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/34/a34b97e6-eb7f-11ee-9d6d-03636c144b66/6602dff3171c7.image.jpg?resize=401%2C500",
-                    "height": "537"
+                    "item": "Sex Crimes",
+                    "name": "Sex Crimes",
+                    "position": "2"
                 }
-            ],
-            "speakablespecification": [
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "EITaaS Wave 1",
+        "htmlTitle": "EITaaS Wave 1",
+        "link": "https://www.safcn.af.mil/EITaaS-Wave-1/",
+        "displayLink": "www.safcn.af.mil",
+        "snippet": "Mar 12, 2024 ... CSAM 2022 \u00b7 CSAM 2021 \u00b7 CSAM 2020 \u00b7 CSAM 2019 \u00b7 CSAM 2017 \u00b7 Knowledge Base Articles \u00b7 Videos and Briefings \u00b7 FAQ \u00b7 CSAM 2023 \u00b7 Small Business Cybersecurity\u00a0...",
+        "htmlSnippet": "Mar 12, 2024 <b>...</b> <b>CSAM</b> 2022 &middot; <b>CSAM</b> 2021 &middot; <b>CSAM</b> 2020 &middot; <b>CSAM</b> 2019 &middot; <b>CSAM</b> 2017 &middot; Knowledge Base Articles &middot; Videos and Briefings &middot; FAQ &middot; <b>CSAM</b> 2023 &middot; Small Business Cybersecurity&nbsp;...",
+        "cacheId": "il4x-CfntmMJ",
+        "formattedUrl": "https://www.safcn.af.mil/EITaaS-Wave-1/",
+        "htmlFormattedUrl": "https://www.safcn.af.mil/EITaaS-Wave-1/",
+        "pagemap": {
+            "cse_thumbnail": [
                 {
-                    "cssselector": ".asset-header .headline"
-                }
-            ],
-            "organization": [
-                {
-                    "name": "postandcourier.com"
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXKf02NK4Q9_j5TkoAUKElSNZYF0gqiPmJaBsAl29PeyF7ox4adLlVw&s",
+                    "width": "417",
+                    "height": "121"
                 }
             ],
             "metatags": [
                 {
-                    "og:image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/34/a34b97e6-eb7f-11ee-9d6d-03636c144b66/6602dff3171c7.image.jpg?crop=431%2C431%2C0%2C53&resize=200%2C200&order=crop%2Cresize",
-                    "og:image:width": "200",
+                    "viewport": "width=device-width,initial-scale=1",
+                    "contact": "dma.meade.web-mil-service-desk@mail.mil",
+                    "rating": "GENERAL",
+                    "host": "DMA Public Web",
+                    "resource-type": "DOCUMENT"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://www.safcn.af.mil/portals/64/images/EITaaS/130615-Z-LI010-9073_cropped.jpg?ver=dULKdLdFBe2mJtj5THqEaQ%3D%3D"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "User Clip: EARN It, Stop CSAM, SHIELD Act hotline | C-SPAN.org",
+        "htmlTitle": "User Clip: EARN It, Stop <b>CSAM</b>, SHIELD Act hotline | C-SPAN.org",
+        "link": "https://www.c-span.org/video/?c5109075/user-clip-earn-it-stop-csam-shield-act-hotline",
+        "displayLink": "www.c-span.org",
+        "snippet": "Mar 6, 2024 ... EARN It, Stop CSAM, SHIELD Act hotline.",
+        "htmlSnippet": "Mar 6, 2024 <b>...</b> EARN It, Stop <b>CSAM</b>, SHIELD Act hotline.",
+        "cacheId": "gOF0zn6F3TkJ",
+        "formattedUrl": "https://www.c-span.org/video/?c5109075/user-clip-earn-it-stop-csam...",
+        "htmlFormattedUrl": "https://www.c-span.org/video/?c5109075/user-clip-earn-it-stop-<b>csam</b>...",
+        "pagemap": {
+            "organization": [
+                {
+                    "name": "U.S. Senate",
+                    "url": "U.S. Senate"
+                }
+            ],
+            "metatags": [
+                {
+                    "image": "https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvMjI3XC8wMDJcLzE3MDk3NjM3NDdfMDAyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsImhlaWdodCI6NjMwLCJ3aWR0aCI6MTIwMH19fQ==",
+                    "image:width": "1200",
                     "twitter:card": "summary_large_image",
-                    "og:site_name": "Post and Courier",
-                    "cxenseparse:url": "https://www.postandcourier.com/berkeley-independent/moncks-corner-man-arrested-on-csam-charges/article_63e8dab4-eb7f-11ee-b902-f7f46eb4d2ac.html",
-                    "cxenseparse:publishtime": "2024-03-26 10:44",
-                    "og:description": "Editor\u2019s note: Child sexual abuse material, or CSAM, is a more accurate reflection of the material involved in these crimes. \u201cPornography\u201d can imply the child was a consenting participant. Globally,",
-                    "article:publisher": "https://www.facebook.com/berkeleyind",
-                    "twitter:image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/34/a34b97e6-eb7f-11ee-9d6d-03636c144b66/6602dff3171c7.image.jpg?crop=431%2C226%2C0%2C155&resize=431%2C226&order=crop%2Cresize",
-                    "twitter:image:alt": "William Joseph Godlewski",
-                    "twitter:site": "@BerkeleyIND",
-                    "cxenseparse:author": "Staff report",
-                    "news_keywords": "berkeley-independent, community-news, crime, news",
-                    "og:section": "Local News and Sports for Moncks Corner, Berkeley",
+                    "twitter:title": "User Clip: EARN It, Stop CSAM, SHIELD Act hotline",
+                    "title": "User Clip: EARN It, Stop CSAM, SHIELD Act hotline",
+                    "locale": "en_US",
+                    "twitter:creator": "@cspan",
+                    "image:type": "image/jpeg",
+                    "url": "//www.c-span.org/video/?c5109075/user-clip-earn-it-stop-csam-shield-act-hotline",
+                    "twitter:image": "https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvMjI3XC8wMDJcLzE3MDk3NjM3NDdfMDAyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsImhlaWdodCI6NjMwLCJ3aWR0aCI6MTIwMH19fQ==",
+                    "site_name": "C-SPAN.org",
+                    "twitter:site": "@cspan",
+                    "image:height": "630",
+                    "viewport": "width=device-width, initial-scale=1.0",
+                    "twitter:description": "EARN It, Stop CSAM, SHIELD Act hotline"
+                }
+            ],
+            "videoobject": [
+                {
+                    "uploaddate": "2024-03-06T17:01:56-05:00",
+                    "contentlocation": "Washington, District of Columbia, United States",
+                    "name": "User Clip: EARN It, Stop CSAM, SHIELD Act hotline",
+                    "description": "EARN It, Stop CSAM, SHIELD Act hotline",
+                    "thumbnailurl": "https://images.c-span.org/Files/227/002/1709763747_002.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Graham Calls For Passage of Legislation to Protect Children Online ...",
+        "htmlTitle": "Graham Calls For Passage of Legislation to Protect Children Online ...",
+        "link": "https://www.lgraham.senate.gov/public/index.cfm/press-releases?ID=79727653-C7B4-4A5D-BEFA-26BB17BFB5A0",
+        "displayLink": "www.lgraham.senate.gov",
+        "snippet": "Mar 7, 2024 ... The EARN IT Act removes blanket immunity for violations of laws related to online child sexual abuse material (CSAM). Section 230 of the Communications Decency\u00a0...",
+        "htmlSnippet": "Mar 7, 2024 <b>...</b> The EARN IT Act removes blanket immunity for violations of laws related to online child sexual abuse material (<b>CSAM</b>). Section 230 of the Communications Decency&nbsp;...",
+        "cacheId": "mhd0ibHQO58J",
+        "formattedUrl": "https://www.lgraham.senate.gov/public/index.cfm/press-releases?ID...",
+        "htmlFormattedUrl": "https://www.lgraham.senate.gov/public/index.cfm/press-releases?ID...",
+        "pagemap": {
+            "metatags": [
+                {
+                    "twitter:title": "Graham Calls For Passage of Legislation to Protect Children Online, Hold Big Tech Accountable",
                     "og:type": "article",
-                    "parsely-post-id": "63e8dab4-eb7f-11ee-b902-f7f46eb4d2ac",
-                    "author": "Staff report",
-                    "og:title": "Moncks Corner man arrested on CSAM charges",
-                    "og:image:height": "200",
-                    "fb:pages": "107285652622522",
-                    "facebook-domain-verification": "i9e141bft0afv8o943way39v17b0jg",
-                    "fb:app_id": "144381832278974",
-                    "apple-mobile-web-app-status-bar-style": "black-translucent",
+                    "og:site_name": "United States Senator Lindsey Graham",
                     "viewport": "width=device-width, initial-scale=1.0",
-                    "apple-mobile-web-app-capable": "yes",
-                    "cxenseparse:articleid": "63e8dab4-eb7f-11ee-b902-f7f46eb4d2ac",
-                    "tncms:ads": "smart,lazyload,refresh_timer",
-                    "fewcents:article:id": "63e8dab4-eb7f-11ee-b902-f7f46eb4d2ac",
-                    "og:url": "https://www.postandcourier.com/berkeley-independent/moncks-corner-man-arrested-on-csam-charges/article_63e8dab4-eb7f-11ee-b902-f7f46eb4d2ac.html"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/34/a34b97e6-eb7f-11ee-9d6d-03636c144b66/6602dff3171c7.image.jpg?crop=431%2C431%2C0%2C53&resize=200%2C200&order=crop%2Cresize"
-                }
-            ],
-            "article": [
-                {
-                    "articlebody": "Editor\u2019s note: Child sexual abuse material, or CSAM, is a more accurate reflection of the material involved in these crimes. \u201cPornography\u201d can imply the child was a consenting participant....",
-                    "datemodified": "2024-03-26T10:44:00-04:00",
-                    "isaccessibleforfree": "true",
-                    "author": "Staff report",
-                    "description": "Editor\u2019s note: Child sexual abuse material, or CSAM, is a more accurate reflection of the material involved in these crimes. \u201cPornography\u201d can imply the child was a consenting participant....",
-                    "datecreated": "2024-03-26T10:44:00-04:00",
-                    "headline": "Moncks Corner man arrested on CSAM charges",
-                    "datepublished": "2024-03-26T10:44:00-04:00",
-                    "mainentityofpage": "https://www.postandcourier.com/berkeley-independent/moncks-corner-man-arrested-on-csam-charges/article_63e8dab4-eb7f-11ee-b902-f7f46eb4d2ac.html"
+                    "twitter:description": "WASHINGTON &ndash; Last night, U.S. Senator Lindsey Graham (R-South Carolina) made a unanimous consent request to call for the Senate to immediately pass legislation to combat the sexual exploitation of children online and hold Big Tech accountable. Graham was joined on the floor in support of this effort by U.S. Senators Chuck Grassley (R-Iowa), John Cornyn (R-Texas), Amy Klobuchar (D-Minnesota), Josh Hawley (R-Missouri), and Dick Durbin (D-Illinois).\n\nGraham made a request to pass the EARN IT Act of 2023, the STOP CSAM Act of 2023, and the SHIELD Act of 2023. The passage of EARN IT and STOP CSAM was blocked by U.S. Senator Ron Wyden (D-Oregon). The passage of the SHIELD Act was blocked by U.S. Senator Cory Booker (D-New Jersey).\n\n\nGRAHAM: &ldquo;The sexual exploitation of children [on these social media platforms] is just mind-boggling.&rdquo; https://youtu.be/e0mOcaUQuWE?si=iqKFJ4G3v_qv0GR7&t=85\n\n\nGRAHAM: &ldquo;The largest companies in America &ndash; social media outlets &ndash; that make hundreds of bil",
+                    "og:title": "Graham Calls For Passage of Legislation to Protect Children Online, Hold Big Tech Accountable",
+                    "og:url": "https://www.lgraham.senate.gov/public/index.cfm/2024/3/graham-calls-for-passage-of-legislation-to-protect-children-online-hold-big-tech-accountable",
+                    "og:description": "WASHINGTON &ndash; Last night, U.S. Senator Lindsey Graham (R-South Carolina) made a unanimous consent request to call for the Senate to immediately pass legislation to combat the sexual exploitation of children online and hold Big Tech accountable. Graham was joined on the floor in support of this effort by U.S. Senators Chuck Grassley (R-Iowa), John Cornyn (R-Texas), Amy Klobuchar (D-Minnesota), Josh Hawley (R-Missouri), and Dick Durbin (D-Illinois).\n\nGraham made a request to pass the EARN IT Act of 2023, the STOP CSAM Act of 2023, and the SHIELD Act of 2023. The passage of EARN IT and STOP CSAM was blocked by U.S. Senator Ron Wyden (D-Oregon). The passage of the SHIELD Act was blocked by U.S. Senator Cory Booker (D-New Jersey).\n\n\nGRAHAM: &ldquo;The sexual exploitation of children [on these social media platforms] is just mind-boggling.&rdquo; https://youtu.be/e0mOcaUQuWE?si=iqKFJ4G3v_qv0GR7&t=85\n\n\nGRAHAM: &ldquo;The largest companies in America &ndash; social media outlets &ndash; that make hundreds of bil"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "CSAM | BOSA",
-        "htmlTitle": "<b>CSAM</b> | BOSA",
-        "link": "http://bosa.belgium.be/en/applications/csam",
-        "displayLink": "bosa.belgium.be",
-        "snippet": "Mar 5, 2024 ... CSAM \u00b7 Cooperation between various public services. The result of cooperation between various public services, CSAM is an initiative by the following bodies:.",
-        "htmlSnippet": "Mar 5, 2024 <b>...</b> <b>CSAM</b> &middot; Cooperation between various public services. The result of cooperation between various public services, <b>CSAM</b> is an initiative by the following bodies:.",
-        "cacheId": "ugESJhylCK0J",
-        "formattedUrl": "http://bosa.belgium.be/en/applications/csam",
-        "htmlFormattedUrl": "http://bosa.belgium.be/en/applications/<b>csam</b>",
+        "title": "Investigating child sexual abuse material availability, searches, and ...",
+        "htmlTitle": "Investigating child sexual abuse material availability, searches, and ...",
+        "link": "https://www.nature.com/articles/s41598-024-58346-7",
+        "displayLink": "www.nature.com",
+        "snippet": "1 day ago ... CSAM means media, including images, videos, and live streaming, that depict sexual violence against a child. It is common for those who search for and view CSAM\u00a0...",
+        "htmlSnippet": "1 day ago <b>...</b> <b>CSAM</b> means media, including images, videos, and live streaming, that depict sexual violence against a child. It is common for those who search for and view <b>CSAM</b>&nbsp;...",
+        "formattedUrl": "https://www.nature.com/articles/s41598-024-58346-7",
+        "htmlFormattedUrl": "https://www.nature.com/articles/s41598-024-58346-7",
         "pagemap": {
-            "cse_thumbnail": [
+            "periodical": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_QB1v7SnKXdiBRi5KpA7lT-DUiFE96NUBY76ynTy7KIjO1C2F26p4L4&s",
-                    "width": "436",
-                    "height": "116"
+                    "publisher": "Springer Nature",
+                    "onlineissn": "2045-2322"
                 }
             ],
             "metatags": [
                 {
-                    "msapplication-tilecolor": "#405b77",
-                    "msapplication-config": "/themes/custom/bosa/images/favicons/browserconfig.xml",
-                    "theme-color": "#405b77",
-                    "og:site_name": "BOSA",
+                    "dc.publisher": "Nature Publishing Group",
+                    "citation_journal_title": "Scientific Reports",
+                    "dc.rights": "2024 The Author(s)",
+                    "prism.publicationdate": "2024-04-03",
+                    "prism.issn": "2045-2322",
+                    "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+                    "prism.number": "1",
+                    "citation_issn": "2045-2322",
+                    "citation_language": "en",
+                    "citation_pdf_url": "https://www.nature.com/articles/s41598-024-58346-7.pdf",
+                    "citation_lastpage": "14",
+                    "application-name": "Nature",
+                    "prism.publicationname": "Scientific Reports",
+                    "citation_journal_abbrev": "Sci Rep",
+                    "dc.date": "2024-04-03",
+                    "citation_issue": "1",
+                    "prism.volume": "14",
+                    "size": "152309",
+                    "citation_doi": "10.1038/s41598-024-58346-7",
+                    "dc.title": "Investigating child sexual abuse material availability, searches, and users on the anonymous Tor network for a public health intervention strategy",
+                    "prism.url": "https://www.nature.com/articles/s41598-024-58346-7",
+                    "citation_volume": "14",
+                    "dc.language": "En",
+                    "doi": "10.1038/s41598-024-58346-7",
+                    "msapplication-config": "/static/browserconfig.xml",
+                    "prism.startingpage": "1",
+                    "theme-color": "#000000",
+                    "citation_title": "Investigating child sexual abuse material availability, searches, and users on the anonymous Tor network for a public health intervention strategy",
+                    "access": "Yes",
+                    "citation_publisher": "Nature Publishing Group",
+                    "applicable-device": "pc,mobile",
+                    "dc.format": "text/html",
+                    "prism.rightsagent": "journalpermissions@springernature.com",
+                    "citation_online_date": "2024/04/03",
+                    "dc.source": "Scientific Reports 2024 14:1",
+                    "dc.type": "OriginalPaper",
+                    "dc.rightsagent": "journalpermissions@springernature.com",
+                    "dc.copyright": "2024 The Author(s)",
+                    "citation_fulltext_html_url": "https://www.nature.com/articles/s41598-024-58346-7",
+                    "msapplication-tilecolor": "#000000",
+                    "journal_id": "41598",
+                    "dc.description": "Tor is widely used for staying anonymous online and accessing onion websites; unfortunately, Tor is popular for distributing and viewing illicit child sexual abuse material (CSAM). From 2018 to 2023, we analyse 176,683 onion domains and find that one-fifth share CSAM. We find that CSAM is easily available using 21 out of the 26 most-used Tor search engines. We analyse 110,133,715 search sessions from the Ahmia.fi search engine and discover that 11.1% seek CSAM. When searching CSAM by age, 40.5% search for 11-year-olds and younger; 11.0% for 12-year-olds; 8.2% for 13-year-olds; 11.6% for 14-year-olds; 10.9% for 15-year-olds; and 12.7% for 16-year-olds. We demonstrate accurate filtering for search engines, introduce intervention, show a questionnaire for CSAM users, and analyse 11,470 responses. 65.3% of CSAM users first saw the material when they were children themselves, and half of the respondents first saw the material accidentally, demonstrating the availability of CSAM. 48.1% want to stop using CSAM. Some",
+                    "citation_article_type": "Article",
+                    "prism.doi": "doi:10.1038/s41598-024-58346-7",
+                    "prism.endingpage": "14",
+                    "citation_firstpage": "1",
+                    "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+                    "prism.section": "OriginalPaper",
+                    "dc.identifier": "doi:10.1038/s41598-024-58346-7",
+                    "prism.copyright": "2024 The Author(s)"
+                }
+            ],
+            "listitem": [
+                {
+                    "item": "nature",
+                    "name": "nature",
+                    "position": "1"
+                },
+                {
+                    "item": "scientific reports",
+                    "name": "scientific reports",
+                    "position": "2"
+                },
+                {
+                    "item": "articles",
+                    "name": "articles",
+                    "position": "3"
+                },
+                {
+                    "name": "article",
+                    "position": "4"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Delivering as One, a UN in China conversation presented by ...",
+        "htmlTitle": "Delivering as One, a UN in China conversation presented by ...",
+        "link": "https://china.un.org/en/262733-delivering-one-un-china-conversation-presented-resident-coordinator-siddharth-chatterjee",
+        "displayLink": "china.un.org",
+        "snippet": "Mar 11, 2024 ... Yutong Li (centre) with Member States' delegates and observers at the CSAM Governing Council meeting. During the conversation, Dr. Li highlighted CSAM's work to\u00a0...",
+        "htmlSnippet": "Mar 11, 2024 <b>...</b> Yutong Li (centre) with Member States&#39; delegates and observers at the <b>CSAM</b> Governing Council meeting. During the conversation, Dr. Li highlighted <b>CSAM&#39;s</b> work to&nbsp;...",
+        "cacheId": "WtekxPl9F_wJ",
+        "formattedUrl": "https://china.un.org/.../262733-delivering-one-un-china-conversation-prese...",
+        "htmlFormattedUrl": "https://china.un.org/.../262733-delivering-one-un-china-conversation-prese...",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToc1iXkInB5mVvu5FU8fLeqQpcD6ripTZg5oTomnoH8hC1GzryNrifXZs&s=0",
+                    "width": "146",
+                    "height": "97"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://china.un.org/sites/default/files/styles/large/public/2024-03/IMG388.jpg?h=6bebe385&itok=CYD6uoQi",
+                    "og:type": "Story",
+                    "twitter:card": "summary_large_image",
+                    "twitter:title": "Delivering as One, a UN in China conversation presented by Resident Coordinator Siddharth Chatterjee: Episode 17 with Yutong Li, Head of CSAM",
+                    "og:site_name": "China",
                     "handheldfriendly": "true",
+                    "twitter:url": "https://china.un.org/en/262733-delivering-one-un-china-conversation-presented-resident-coordinator-siddharth-chatterjee",
+                    "og:title": "Delivering as One, a UN in China conversation presented by Resident Coordinator Siddharth Chatterjee: Episode 17 with Yutong Li, Head of CSAM",
+                    "og:description": "Video Url",
+                    "twitter:dnt": "on",
+                    "twitter:image": "https://china.un.org/sites/default/files/styles/large/public/2024-03/IMG388.jpg?h=6bebe385&itok=CYD6uoQi",
                     "viewport": "width=device-width, initial-scale=1.0",
-                    "og:title": "CSAM | BOSA",
+                    "twitter:description": "Video Url",
                     "mobileoptimized": "width",
-                    "outdatedbrowser-ietarget": "11",
-                    "og:url": "http://bosa.belgium.be/en/applications/csam",
-                    "msapplication-tileimage": "/themes/custom/bosa/images/favicons/mstile-144x144.png",
-                    "og:description": "The gateway to government services. A familiar and reliable environment awaits you each time you log in, designate access managers, conclude mandates, etc. In practice"
+                    "og:url": "https://china.un.org/en/262733-delivering-one-un-china-conversation-presented-resident-coordinator-siddharth-chatterjee"
                 }
             ],
             "cse_image": [
                 {
-                    "src": "https://bosa.belgium.be/themes/custom/bosa/images/logos/logo--en.svg"
+                    "src": "https://china.un.org/sites/default/files/styles/large/public/2024-03/IMG388.jpg?h=6bebe385&itok=CYD6uoQi"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "Executive Director in , CA for California Society of Addiction ...",
-        "htmlTitle": "Executive Director in , CA for <b>California Society of Addiction</b> ...",
-        "link": "https://careerhq.asaecenter.org/jobs/19851084/executive-director",
-        "displayLink": "careerhq.asaecenter.org",
-        "snippet": "Mar 8, 2024 ... Mission Statement: CSAM's mission is to advance the ethical and compassionate treatment of addiction through physician-led education for health professionals,\u00a0...",
-        "htmlSnippet": "Mar 8, 2024 <b>...</b> Mission Statement: <b>CSAM&#39;s</b> mission is to advance the ethical and compassionate treatment of addiction through physician-led education for health professionals,&nbsp;...",
-        "cacheId": "-kzlXcJH8FoJ",
-        "formattedUrl": "https://careerhq.asaecenter.org/jobs/19851084/executive-director",
-        "htmlFormattedUrl": "https://careerhq.asaecenter.org/jobs/19851084/executive-director",
+        "title": "Cybersecurity Solutions and Services | CDW",
+        "htmlTitle": "Cybersecurity Solutions and Services | CDW",
+        "link": "https://www.cdw.com/content/cdw/en/solutions/cybersecurity.html",
+        "displayLink": "www.cdw.com",
+        "snippet": "Mar 21, 2024 ... CDW cybersecurity solutions and services protect you from data breaches through a cohesive strategy of security assessments, data protection and threat\u00a0...",
+        "htmlSnippet": "Mar 21, 2024 <b>...</b> CDW cybersecurity solutions and services protect you from data breaches through a cohesive strategy of security assessments, data protection and threat&nbsp;...",
+        "cacheId": "4LwDf5NpEN4J",
+        "formattedUrl": "https://www.cdw.com/content/cdw/en/solutions/cybersecurity.html",
+        "htmlFormattedUrl": "https://www.cdw.com/content/cdw/en/solutions/cybersecurity.html",
         "pagemap": {
             "cse_thumbnail": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTFjosujA56tMJuBMYTGIEnDXMGpYDg2NdsHBfH6BpxSl-hjHZnL6lxQ&s",
-                    "width": "200",
-                    "height": "71"
-                }
-            ],
-            "organization": [
-                {
-                    "name": "About California Society of Addiction Medicine (CSAM)",
-                    "description": "Founded in 1973, the California Society of Addiction Medicine (CSAM) is a 501(c)(3) professional membership organization and the largest state chapter of the American Society of Addiction Medicine...",
-                    "url": "https://careerhq.asaecenter.org/nsutilities/showLogo.cfm?id=1374066&orgType=employer&logoType=Primary"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://careerhq.asaecenter.org/nsutilities/showLogo.cfm?id=1374066&orgType=employer&logoType=Primary&shareposting=1",
-                    "og:type": "website",
-                    "og:image:width": "200",
-                    "og:site_name": "Association CareerHQ",
-                    "viewport": "height=device-height,width=device-width,initial-scale=1.0",
-                    "msvalidate.01": "AEAC3B2A8A977DB76FE85148268BA9CB",
-                    "og:title": "Executive Director in , CA for California Society of Addiction Medicine (CSAM)",
-                    "og:image:height": "200",
-                    "og:url": "https://careerhq.asaecenter.org/jobs/19851084/executive-director",
-                    "og:description": "Exciting opportunity in , CA for California Society of Addiction Medicine (CSAM) as a Executive D..."
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://careerhq.asaecenter.org/nsutilities/showLogo.cfm?id=1374066&orgType=employer&logoType=Primary&shareposting=1"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Certified Specialist in Anger Management (CSAM) - Evergreen ...",
-        "htmlTitle": "<b>Certified Specialist in Anger Management</b> (<b>CSAM</b>) - Evergreen ...",
-        "link": "https://www.evergreencertifications.com/it/certification/certified-specialist-in-anger-management/",
-        "displayLink": "www.evergreencertifications.com",
-        "snippet": "Mar 20, 2024 ... Certified Specialist in Anger Management certification will equip you with the skills you need to transform anger into something your clients can use to\u00a0...",
-        "htmlSnippet": "Mar 20, 2024 <b>...</b> <b>Certified Specialist in Anger Management</b> certification will equip you with the skills you need to transform anger into something your clients can use to&nbsp;...",
-        "cacheId": "8djj4MKAeXAJ",
-        "formattedUrl": "https://www.evergreencertifications.com/.../certified-specialist-in-anger-man...",
-        "htmlFormattedUrl": "https://www.evergreencertifications.com/.../certified-specialist-in-anger-man...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIhNHsTYDRna1Z2Z2gqKgHVO09a7VHrw1XUiUNAWCDF2bATWn3dVhpxI&s",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoIjPTl4K-tJdy0XF-1PIV2Te4kqM8wWOvx4_VqlvWgGSsQZ7qlK7soz0&s",
                     "width": "225",
                     "height": "225"
                 }
             ],
             "metatags": [
                 {
-                    "og:type": "article",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "Evergreen Certifications",
-                    "og:title": "CSAM - Certified Specialist in Anger Management (IT)",
-                    "twitter:label1": "Est. reading time",
-                    "msapplication-tileimage": "https://www.evergreencertifications.com/wp-content/uploads/2024/02/cropped-EG-270x270.png",
-                    "og:description": "Certified Specialist in Anger Management certification will equip you with the skills you need to transform anger into something your clients can use to become calmer, happier individuals.",
-                    "article:publisher": "https://www.facebook.com/evergreencertifications",
-                    "twitter:image": "https://www.evergreencertifications.com/wp-content/uploads/2023/09/CSAM.svg",
-                    "twitter:data1": "1 minute",
-                    "article:modified_time": "2024-03-20T19:23:12+00:00",
-                    "viewport": "width=device-width",
-                    "og:locale": "en_US",
-                    "og:url": "https://www.evergreencertifications.com/it/certification/certified-specialist-in-anger-management/"
+                    "og:image": "https://webobjects2.cdw.com/is/image/CDW/cdw23-og-logo-1200",
+                    "og:type": "website",
+                    "og:site_name": "CDW.com",
+                    "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+                    "og:title": "CDW Cybersecurity Solutions",
+                    "og:url": "https://www.cdw.com/content/cdw/en/solutions/cybersecurity.html",
+                    "og:description": "CDW can help protect you from costly data breaches through a cohesive strategy of security assessments, data protection and threat mitigation."
                 }
             ],
             "cse_image": [
                 {
-                    "src": "https://www.evergreencertifications.com/wp-content/uploads/2023/09/CSAM.svg"
+                    "src": "https://webobjects2.cdw.com/is/image/CDW/cdw23-og-logo-1200"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "Coalition Response to House Hearing on CSAM Identification ...",
-        "htmlTitle": "Coalition Response to House Hearing on <b>CSAM</b> Identification ...",
-        "link": "https://endoseac.org/coalition-response-to-house-hearing-on-csam-identification/",
-        "displayLink": "endoseac.org",
-        "snippet": "Mar 6, 2024 ... The prevalence of child sexual abuse material (CSAM) is rapidly increasing, and children around the world are being harmed. This global crime requires a global\u00a0...",
-        "htmlSnippet": "Mar 6, 2024 <b>...</b> The prevalence of child sexual abuse material (<b>CSAM</b>) is rapidly increasing, and children around the world are being harmed. This global crime requires a global&nbsp;...",
-        "cacheId": "j6mh6DC3AbcJ",
-        "formattedUrl": "https://endoseac.org/coalition-response-to-house-hearing-on-csam-identific...",
-        "htmlFormattedUrl": "https://endoseac.org/coalition-response-to-house-hearing-on-<b>csam</b>-identific...",
-        "pagemap": {
-            "metatags": [
-                {
-                    "cdp-version": "1.4.5",
-                    "viewport": "width=device-width, initial-scale=1"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "CSAM Inspire - Excellence in Execution - Credly",
-        "htmlTitle": "<b>CSAM</b> Inspire - Excellence in Execution - Credly",
-        "link": "https://www.credly.com/org/microsoft-technology-solution-achievers/badge/csam-inspire-excellence-in-execution",
-        "displayLink": "www.credly.com",
-        "snippet": "4 days ago ... Proven excellence in CSAM role execution and inspiring role behaviors.",
-        "htmlSnippet": "4 days ago <b>...</b> Proven excellence in <b>CSAM</b> role execution and inspiring role behaviors.",
-        "cacheId": "Ctl16JglI8gJ",
-        "formattedUrl": "https://www.credly.com/org/.../csam-inspire-excellence-in-execution",
-        "htmlFormattedUrl": "https://www.credly.com/org/.../<b>csam</b>-inspire-excellence-in-execution",
+        "title": "Registered sex offender sentenced for possessing CSAM",
+        "htmlTitle": "Registered sex offender sentenced for possessing <b>CSAM</b>",
+        "link": "https://www.tristatehomepage.com/news/crime/martin-county-registered-sex-offender-sentenced-for-possessing-600-images-of-csam/",
+        "displayLink": "www.tristatehomepage.com",
+        "snippet": "Mar 25, 2024 ... Martin County registered sex offender sentenced for possessing 600+ images of CSAM ... EVANSVILLE, Ind. (WTWO/WAWV) \u2014 A Loogootee man will spend a decade in\u00a0...",
+        "htmlSnippet": "Mar 25, 2024 <b>...</b> Martin County registered sex offender sentenced for possessing 600+ images of <b>CSAM</b> ... EVANSVILLE, Ind. (WTWO/WAWV) \u2014 A Loogootee man will spend a decade in&nbsp;...",
+        "cacheId": "Eo0sXLT8gGMJ",
+        "formattedUrl": "https://www.tristatehomepage.com/.../martin-county-registered-sex-offende...",
+        "htmlFormattedUrl": "https://www.tristatehomepage.com/.../martin-county-registered-sex-offende...",
         "pagemap": {
             "cse_thumbnail": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lH2tjW_yRFKC2T7_Mh4IkyobnTwzbvJr6Vfg-g6fGfXJWGs1KP9reAc&s",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDj901duLh4NFv7KtTTFvewoM7n1UW3fv1f1Dv_767b7K_czUBJk577Cap&s",
+                    "width": "300",
+                    "height": "168"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2024/03/jail-cell-bars-generic-big_35856378_ver1.0.jpg?w=1280",
+                    "article:published_time": "2024-03-25T20:02:13+00:00",
+                    "og:image:width": "1280",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Eyewitness News (WEHT/WTVW)",
+                    "msapplication-tileimage": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/08/cropped-weht-app.jpg?w=270",
+                    "og:description": "A Loogootee man will spend a decade in prison after investigators reportedly found him to be in possession of more than 600 images of child sex abuse material.",
+                    "og:image:secure_url": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2024/03/jail-cell-bars-generic-big_35856378_ver1.0.jpg?w=1280",
+                    "twitter:image": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2024/03/jail-cell-bars-generic-big_35856378_ver1.0.jpg?strip=1&w=640",
+                    "twitter:text:title": "Martin County registered sex offender sentenced for possessing 600+ images of CSAM",
+                    "article:modified_time": "2024-03-25T20:02:15+00:00",
+                    "sailthru.title": "Martin County registered sex offender sentenced for possessing 600+ images of CSAM",
+                    "sailthru.date": "2024-03-25 15:02:13",
+                    "og:type": "article",
+                    "twitter:title": "Martin County registered sex offender sentenced for possessing 600+ images of CSAM",
+                    "og:title": "Martin County registered sex offender sentenced for possessing 600+ images of CSAM",
+                    "og:image:height": "720",
+                    "sailthru.image.thumb": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2024/03/jail-cell-bars-generic-big_35856378_ver1.0.jpg?w=50",
+                    "sailthru.description": "A Loogootee man will spend a decade in prison after investigators reportedly found him to be in possession of more than 600 images of child sex abuse material.",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "twitter:description": "A Loogootee man will spend a decade in prison after investigators reportedly found him to be in possession of more than 600 images of child sex abuse material.",
+                    "og:locale": "en_US",
+                    "og:url": "https://www.tristatehomepage.com/news/crime/martin-county-registered-sex-offender-sentenced-for-possessing-600-images-of-csam/",
+                    "sailthru.author": "Brandyn Benter",
+                    "sailthru.image.full": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2024/03/jail-cell-bars-generic-big_35856378_ver1.0.jpg?strip=1"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2024/03/jail-cell-bars-generic-big_35856378_ver1.0.jpg?w=1280"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "CSAM & THE MODERN DARKWEB | Medium",
+        "htmlTitle": "<b>CSAM</b> &amp; THE MODERN DARKWEB | Medium",
+        "link": "https://medium.com/@alisagbiorczyk/csam-the-modern-dark-web-4d63e9b6ab09?responsesOpen=true&sortBy=REVERSE_CHRON",
+        "displayLink": "medium.com",
+        "snippet": "24 hours ago ... ... no responses for this story. Be the first to respond. CSAM & THE MODERN DARK WEB. Alisa Gbiorczyk. \u00b7. Follow. 13 min read. \u00b7. Apr 3, 2024.",
+        "htmlSnippet": "24 hours ago <b>...</b> ... no responses for this story. Be the first to respond. <b>CSAM</b> &amp; THE MODERN DARK WEB. Alisa Gbiorczyk. \u00b7. Follow. 13 min read. \u00b7. Apr 3, 2024.",
+        "cacheId": "hHhOJW2XlawJ",
+        "formattedUrl": "https://medium.com/.../csam-the-modern-dark-web-4d63e9b6ab09?...true...",
+        "htmlFormattedUrl": "https://medium.com/.../<b>csam</b>-the-modern-dark-web-4d63e9b6ab09?...true...",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr377Vlrm3w8-2A9jzL2Zp1j2Tn-slDMYdk2GfehmoHiWJ3kPf5CYtu8&s",
                     "width": "318",
-                    "height": "158"
+                    "height": "159"
                 }
             ],
             "metatags": [
                 {
-                    "og:image": "https://images.credly.com/images/1c03a946-3eb3-4cbb-bfc9-d844dc5023d4/image.png",
-                    "twitter:card": "summary",
-                    "og:type": "og:object",
-                    "og:site_name": "Credly",
-                    "msvalidate.01": "1B97012E4CB3B07611090D1A0B4D9D19",
-                    "og:title": "CSAM Inspire - Excellence in Execution",
-                    "csrf-param": "authenticity_token",
-                    "og:description": "Proven excellence in CSAM role execution and inspiring role behaviors.",
-                    "twitter:image": "https://images.credly.com/images/1c03a946-3eb3-4cbb-bfc9-d844dc5023d4/twitter_thumb_201604_image.png",
-                    "twitter:site": "@Credly",
-                    "viewport": "width=device-width",
-                    "csrf-token": "M4xOklKyJSsWKr--59filkd_-JDADGB5SXHtWuv9E5np09SriAHDfxOsbFBBoKDY_ugPZ8brIq4oGwaIZiqO1Q",
-                    "og:url": "https://www.credly.com/badge_templates/c2066a42-dc41-4e4b-bbe5-3c32b7686045"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://cdn.cookielaw.org/logos/d3739393-a953-487e-b023-41b5376a2dae/47d1c5ce-460c-434d-8cc7-0318d7d02a9d/c5d14255-a7ff-4a8d-bc20-530331cf5ab0/Credly_Logo_Orange_10-Inch.png"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Child Actress Says Nickelodeon Sent Actors Computers With CSAM ...",
-        "htmlTitle": "Child Actress Says Nickelodeon Sent Actors Computers With <b>CSAM</b> ...",
-        "link": "https://perezhilton.com/nickelodeon-gave-child-stars-csam-haunted-hathaways-amber-montana/",
-        "displayLink": "perezhilton.com",
-        "snippet": "6 days ago ... Child Actress Says Nickelodeon Sent Actors Computers With CSAM Loaded On Them! Nickelodeon Gave Child Stars CSAM Haunted Hathaways Amber Frank. For years\u00a0...",
-        "htmlSnippet": "6 days ago <b>...</b> Child Actress Says Nickelodeon Sent Actors Computers With <b>CSAM</b> Loaded On Them! Nickelodeon Gave Child Stars <b>CSAM</b> Haunted Hathaways Amber Frank. For years&nbsp;...",
-        "cacheId": "gDGk_3curjIJ",
-        "formattedUrl": "https://perezhilton.com/nickelodeon-gave-child-stars-csam-haunted-hathaw...",
-        "htmlFormattedUrl": "https://perezhilton.com/nickelodeon-gave-child-stars-<b>csam</b>-haunted-hathaw...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3AgBVDaso1IZV52eFmxYlLShrz75lmFJkNuEjjzMhDbDEG1JUWVcCHbX&s",
-                    "width": "280",
-                    "height": "180"
-                }
-            ],
-            "website": [
-                {
-                    "articlebody": "For years former child actors have been sharing horror stories about their time at Nickelodeon. Unfortunately it took a docuseries, everything being organized and presented on TV, for folks..."
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://perezhilton.com/wp-content/uploads/2024/03/Nickelodeon-Gave-Child-Stars-CSAM-Haunted-Hathaways-Amber-Frank.jpg",
-                    "article:published_time": "2024-03-27T00:50:28+00:00",
-                    "og:image:width": "1200",
+                    "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*30Vo6DNFMEQ-Dr94WPfZOw.png",
+                    "twitter:app:url:iphone": "medium://p/4d63e9b6ab09",
+                    "theme-color": "#000000",
+                    "article:published_time": "2024-04-03T17:17:37.786Z",
                     "twitter:card": "summary_large_image",
-                    "og:site_name": "Perez Hilton",
-                    "apple-mobile-web-app-title": "Perez Hilton - Celebrity News, Entertainment News, & Gossip News",
-                    "twitter:label1": "Written by",
-                    "twitter:label2": "Est. reading time",
-                    "og:image:type": "image/jpeg",
-                    "msapplication-tileimage": "https://perezhilton.com/wp-content/uploads/2020/07/favicon.ico",
-                    "og:description": "For years former child actors have been sharing horror stories about their time at\u00a0Nickelodeon. Unfortunately it took a docuseries, everything being",
-                    "article:publisher": "https://www.facebook.com/ThePerezHilton",
-                    "twitter:data1": "Perez Hilton",
-                    "twitter:data2": "2 minutes",
-                    "article:modified_time": "2024-03-27T19:57:10+00:00",
+                    "og:site_name": "Medium",
+                    "al:android:package": "com.medium.reader",
+                    "twitter:label1": "Reading time",
+                    "twitter:app:id:iphone": "828256236",
+                    "title": "CSAM & THE MODERN DARKWEB | Medium",
+                    "al:ios:url": "medium://p/4d63e9b6ab09",
+                    "og:description": "In recent years, the Dark Web has garnered infamy as a breeding ground for a wide array of illicit activities, spanning from drug\u2026",
+                    "al:ios:app_store_id": "828256236",
+                    "twitter:data1": "13 min read",
+                    "twitter:site": "@Medium",
                     "og:type": "article",
-                    "author": "Perez Hilton",
-                    "og:title": "Child Actress Says Nickelodeon Sent Actors Computers With CSAM Loaded On Them! - Perez Hilton",
-                    "og:image:height": "774",
-                    "fb:pages": "1028334267217239",
-                    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
-                    "apple-mobile-web-app-capable": "yes",
-                    "onesignal": "wordpress-plugin",
-                    "og:locale": "en_US",
-                    "mobile-web-app-capable": "yes",
-                    "og:url": "https://perezhilton.com/nickelodeon-gave-child-stars-csam-haunted-hathaways-amber-montana/"
+                    "twitter:title": "CSAM & THE MODERN DARK WEB",
+                    "al:ios:app_name": "Medium",
+                    "author": "Alisa Gbiorczyk",
+                    "og:title": "CSAM & THE MODERN DARK WEB",
+                    "al:web:url": "https://medium.com/@alisagbiorczyk/csam-the-modern-dark-web-4d63e9b6ab09",
+                    "article:author": "https://medium.com/@alisagbiorczyk",
+                    "twitter:image:src": "https://miro.medium.com/v2/resize:fit:1200/1*30Vo6DNFMEQ-Dr94WPfZOw.png",
+                    "al:android:url": "medium://p/4d63e9b6ab09",
+                    "referrer": "unsafe-url",
+                    "fb:app_id": "542599432471018",
+                    "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+                    "twitter:description": "In recent years, the Dark Web has garnered infamy as a breeding ground for a wide array of illicit activities, spanning from drug\u2026",
+                    "og:url": "https://medium.com/@alisagbiorczyk/csam-the-modern-dark-web-4d63e9b6ab09",
+                    "twitter:app:name:iphone": "Medium",
+                    "al:android:app_name": "Medium"
                 }
             ],
             "cse_image": [
                 {
-                    "src": "https://perezhilton.com/wp-content/uploads/2024/03/Nickelodeon-Gave-Child-Stars-CSAM-Haunted-Hathaways-Amber-Frank.jpg"
+                    "src": "https://miro.medium.com/v2/resize:fit:1200/1*30Vo6DNFMEQ-Dr94WPfZOw.png"
                 }
             ]
         }
     },
     {
         "kind": "customsearch#result",
-        "title": "If there was a \"CSAM oracle\" that could run on-device and prevent ...",
-        "htmlTitle": "If there was a &quot;<b>CSAM</b> oracle&quot; that could run on-device and prevent ...",
-        "link": "https://news.ycombinator.com/item?id=37654330",
-        "displayLink": "news.ycombinator.com",
-        "snippet": "2 days ago ... If there was a \"CSAM oracle\" that could run on-device and prevent E2EE transmission of CSAM without phoning home, wouldn't that satisfy the EU's proposal\u00a0...",
-        "htmlSnippet": "2 days ago <b>...</b> If there was a &quot;<b>CSAM</b> oracle&quot; that could run on-device and prevent E2EE transmission of <b>CSAM</b> without phoning home, wouldn&#39;t that satisfy the EU&#39;s proposal&nbsp;...",
-        "cacheId": "aAA6n56P3pMJ",
-        "formattedUrl": "https://news.ycombinator.com/item?id=37654330",
-        "htmlFormattedUrl": "https://news.ycombinator.com/item?id=37654330",
-        "pagemap": {
-            "metatags": [
-                {
-                    "referrer": "origin",
-                    "viewport": "width=device-width, initial-scale=1.0"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Durbin Statement on Google Endorsement of Stop CSAM Act ...",
-        "htmlTitle": "Durbin Statement on Google Endorsement of Stop <b>CSAM</b> Act ...",
-        "link": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-statement-on-google-endorsement-of-stop-csam-act-package-of-kids-online-safety-bills",
-        "displayLink": "www.durbin.senate.gov",
-        "snippet": "Mar 7, 2024 ... The EARN IT Act, which removes tech's blanket immunity from civil and criminal liability under child sexual abuse material laws and establishes a National\u00a0...",
-        "htmlSnippet": "Mar 7, 2024 <b>...</b> The EARN IT Act, which removes tech&#39;s blanket immunity from civil and criminal liability under child sexual abuse material laws and establishes a National&nbsp;...",
-        "cacheId": "fLLtlHTPKkQJ",
-        "formattedUrl": "https://www.durbin.senate.gov/.../durbin-statement-on-google-endorsement...",
-        "htmlFormattedUrl": "https://www.durbin.senate.gov/.../durbin-statement-on-google-endorsement...",
+        "title": "Law enforcement struggling to prosecute AI-generated child ...",
+        "htmlTitle": "Law enforcement struggling to prosecute AI-generated child ...",
+        "link": "https://thehill.com/homenews/house/4530044-law-enforcement-struggling-prosecute-ai-generated-child-porn-asks-congress-act/",
+        "displayLink": "thehill.com",
+        "snippet": "Mar 13, 2024 ... Laws against child sexual abuse material (CSAM) require \u201can actual photo, a real photograph, of a child, to be prosecuted,\u201d Carl Szabo, vice president of\u00a0...",
+        "htmlSnippet": "Mar 13, 2024 <b>...</b> Laws against child sexual abuse material (<b>CSAM</b>) require \u201can actual photo, a real photograph, of a child, to be prosecuted,\u201d Carl Szabo, vice president of&nbsp;...",
+        "cacheId": "7-JwE6HMIowJ",
+        "formattedUrl": "https://thehill.com/.../4530044-law-enforcement-struggling-prosecute-ai-ge...",
+        "htmlFormattedUrl": "https://thehill.com/.../4530044-law-enforcement-struggling-prosecute-ai-ge...",
         "pagemap": {
             "cse_thumbnail": [
                 {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqw7iaJN3e-XwLHb_UXoej5y7cqj5_x1Fjvg4uMTKLhsqqU3n_YvrXa0&s",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1cPWkvugbQskLYDPmQnrzQ0J3oCmGFNL2Z3MXrxgwe88EMW6Z0WYZDHp5&s",
+                    "width": "275",
+                    "height": "183"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP23285092442302-1.jpg?w=1280",
+                    "article:published_time": "2024-03-13T21:37:49+00:00",
+                    "og:image:width": "1280",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "The Hill",
+                    "dcterms.title": "Law enforcement struggling to prosecute AI-generated child pornography, asks Congress to act",
+                    "msapplication-tileimage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?w=270",
+                    "og:description": "Law enforcement is struggling to prosecute abusive, sexually explicit images of minors created by artificial intelligence (AI), Rep. Anna Paulina Luna (R-Fla.) told fellow members at a House Oversi\u2026",
+                    "og:image:secure_url": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP23285092442302-1.jpg?w=1280",
+                    "twitter:image": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP23285092442302-1.jpg?strip=1&w=640",
+                    "twitter:text:title": "Law enforcement struggling to prosecute AI-generated child pornography, asks Congress to act",
+                    "article:modified_time": "2024-03-13T21:59:31+00:00",
+                    "sailthru.title": "Law enforcement struggling to prosecute AI-generated child pornography, asks Congress to act",
+                    "article:content_tier": "free",
+                    "sailthru.date": "2024-03-13 17:37:49",
+                    "og:type": "article",
+                    "twitter:title": "Law enforcement struggling to prosecute AI-generated child pornography, asks Congress to act",
+                    "dcterms.type": "Text",
+                    "og:title": "Law enforcement struggling to prosecute AI-generated child pornography, asks Congress to act",
+                    "dcterms.creator": "Clayton Vickers",
+                    "og:image:height": "720",
+                    "dcterms.description": "Law enforcement is struggling to prosecute abusive, sexually explicit images of minors created by artificial intelligence (AI), Rep. Anna Paulina Luna (R-Fla.) told fellow members at a House Oversight subcommittee hearing Tuesday. Laws against child sexual abuse material (CSAM) require \u201can actual photo, a real photograph, of a child, to be prosecuted,\u201d Carl Szabo, vice\u2026",
+                    "dcterms.date": "2024-03-13T17:37:49-04:00",
+                    "sailthru.image.thumb": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP23285092442302-1.jpg?w=50",
+                    "sailthru.description": "Law enforcement is struggling to prosecute abusive, sexually explicit images of minors created by artificial intelligence (AI), Rep. Anna Paulina Luna (R-Fla.) told fellow members at a House Oversight subcommittee hearing Tuesday. Laws against child sexual abuse material (CSAM) require \u201can actual photo, a real photograph, of a child, to be prosecuted,\u201d Carl Szabo, vice\u2026",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "twitter:description": "Law enforcement is struggling to prosecute abusive, sexually explicit images of minors created by artificial intelligence (AI), Rep. Anna Paulina Luna (R-Fla.) told fellow members at a House Oversi\u2026",
+                    "dcterms.format": "text/html",
+                    "og:locale": "en_US",
+                    "og:url": "https://thehill.com/homenews/house/4530044-law-enforcement-struggling-prosecute-ai-generated-child-porn-asks-congress-act/",
+                    "dcterms.identifier": "https://thehill.com/homenews/house/4530044-law-enforcement-struggling-prosecute-ai-generated-child-porn-asks-congress-act/",
+                    "sailthru.author": "Clayton Vickers",
+                    "sailthru.image.full": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP23285092442302-1.jpg?strip=1",
+                    "article:opinion": "false"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP23285092442302-1.jpg?w=1280"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Net debt of CSAM Health Group AS \u2013 OTC:CSAMF \u2013 TradingView",
+        "htmlTitle": "Net debt of <b>CSAM</b> Health Group AS \u2013 OTC:CSAMF \u2013 TradingView",
+        "link": "https://www.tradingview.com/symbols/OTC-CSAMF/financials-balance-sheet/net-debt/",
+        "displayLink": "www.tradingview.com",
+        "snippet": "7 days ago ... Net debt, quarterly and annual stats of CSAM Health Group AS.",
+        "htmlSnippet": "7 days ago <b>...</b> Net debt, quarterly and annual stats of <b>CSAM</b> Health Group AS.",
+        "cacheId": "1-GoZp_oP30J",
+        "formattedUrl": "https://www.tradingview.com/symbols/OTC-CSAMF/financials.../net-debt/",
+        "htmlFormattedUrl": "https://www.tradingview.com/symbols/OTC-<b>CSAM</b>F/financials.../net-debt/",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDevT3BNjlfGrPr_W3VAn_ytyoh05LaZNZo24C7Oa190RuwJXI2zanIIE&s",
                     "width": "310",
                     "height": "163"
                 }
             ],
             "metatags": [
                 {
-                    "date": "2024-03-07",
-                    "og:image": "https://www.durbin.senate.gov/themes/durbin/images/sharelogo.jpg",
-                    "twitter:card": "summary_large_image",
-                    "twitter:title": "Durbin Statement on Google Endorsement of Stop CSAM Act, Package of Kids' Online Safety Bills",
-                    "viewport": "width=device-width, initial-scale=1.0",
-                    "twitter:description": "The Official U.S. Senate website of Dick Durbin",
-                    "og:title": "Durbin Statement on Google Endorsement of Stop CSAM Act, Package of Kids' Online Safety Bills | U.S. Senator Dick Durbin of Illinois",
-                    "title": "Durbin Statement on Google Endorsement of Stop CSAM Act, Package of Kids' Online Safety Bills",
-                    "og:url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-statement-on-google-endorsement-of-stop-csam-act-package-of-kids-online-safety-bills",
-                    "og:description": "The Official U.S. Senate website of Dick Durbin",
-                    "twitter:image": "https://www.durbin.senate.gov/themes/durbin/images/sharelogo.jpg"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://www.durbin.senate.gov/themes/durbin/images/sharelogo.jpg"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Sara Hunter (CSAM) | LinkedIn",
-        "htmlTitle": "Sara Hunter (<b>CSAM</b>) | LinkedIn",
-        "link": "https://uk.linkedin.com/in/sarajhunter",
-        "displayLink": "uk.linkedin.com",
-        "snippet": "Mar 6, 2024 ... \u201cSara is very experienced in all aspects of Software Asset Management and Supply Chain Optimisation. She is well versed in understanding a client's challenges\u00a0...",
-        "htmlSnippet": "Mar 6, 2024 <b>...</b> \u201cSara is very experienced in all aspects of Software Asset Management and Supply Chain Optimisation. She is well versed in understanding a client&#39;s challenges&nbsp;...",
-        "formattedUrl": "https://uk.linkedin.com/in/sarajhunter",
-        "htmlFormattedUrl": "https://uk.linkedin.com/in/sarajhunter",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ560JGbNz5WLNG6vnYLMkcMwN-MipnU-y3pj3qujIDiV2e9ZV4QXfR1-E&s",
-                    "width": "225",
-                    "height": "225"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://media.licdn.com/dms/image/D4E03AQHDy8s_c3GX3Q/profile-displayphoto-shrink_800_800/0/1696942309792?e=2147483647&v=beta&t=5A7V1QP0CCucWX-vPtIES5T34I1zaRHUk_7FQ8jF4UQ",
-                    "twitter:card": "summary",
-                    "linkedin:pagetag": "openToProvider",
-                    "platform-worker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
-                    "al:android:package": "com.linkedin.android",
-                    "locale": "en_US",
-                    "al:ios:url": "https://uk.linkedin.com/in/sarajhunter",
-                    "og:description": "Location: United Kingdom \u00b7 500+ connections on LinkedIn. View Sara Hunter (CSAM)\u2019s profile on LinkedIn, a professional community of 1 billion members.",
-                    "al:ios:app_store_id": "288429040",
-                    "platform": "https://static.licdn.com/aero-v1/sc/h/c4vwe7qihy7txcksc6giwbzh5",
-                    "twitter:image": "https://media.licdn.com/dms/image/D4E03AQHDy8s_c3GX3Q/profile-displayphoto-shrink_800_800/0/1696942309792?e=2147483647&v=beta&t=5A7V1QP0CCucWX-vPtIES5T34I1zaRHUk_7FQ8jF4UQ",
-                    "profile:last_name": "Hunter (CSAM)",
-                    "twitter:site": "@Linkedin",
-                    "litmsprofilename": "public-profile-frontend",
-                    "profile:first_name": "Sara",
-                    "og:type": "profile",
-                    "twitter:title": "Sara Hunter (CSAM) | LinkedIn",
-                    "al:ios:app_name": "LinkedIn",
-                    "og:title": "Sara Hunter (CSAM) | LinkedIn",
-                    "pagekey": "public_profile_v3_mobile",
-                    "al:android:url": "https://uk.linkedin.com/in/sarajhunter",
-                    "viewport": "width=device-width, initial-scale=1.0",
-                    "twitter:description": "Location: United Kingdom \u00b7 500+ connections on LinkedIn. View Sara Hunter (CSAM)\u2019s profile on LinkedIn, a professional community of 1 billion members.",
-                    "ubba": "https://static.licdn.com/aero-v1/sc/h/b5kvwlt6xpzvqqc66m85xsz6f",
-                    "og:url": "https://uk.linkedin.com/in/sarajhunter",
-                    "al:android:app_name": "LinkedIn"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://media.licdn.com/dms/image/D4E03AQHDy8s_c3GX3Q/profile-displayphoto-shrink_800_800/0/1696942309792?e=2147483647&v=beta&t=5A7V1QP0CCucWX-vPtIES5T34I1zaRHUk_7FQ8jF4UQ"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "An update on Amazon's efforts to combat child sexual abuse material",
-        "htmlTitle": "An update on Amazon&#39;s efforts to combat child sexual abuse material",
-        "link": "https://www.aboutamazon.com/news/policy-news-views/amazon-csam-transparency-report-2023",
-        "displayLink": "www.aboutamazon.com",
-        "snippet": "4 days ago ... ... (CSAM) in every segment of our business. We expressly prohibit the use of our services to create, store, or distribute CSAM. Across Amazon's services, we\u00a0...",
-        "htmlSnippet": "4 days ago <b>...</b> ... (<b>CSAM</b>) in every segment of our business. We expressly prohibit the use of our services to create, store, or distribute <b>CSAM</b>. Across Amazon&#39;s services, we&nbsp;...",
-        "cacheId": "It1GVzyqg1IJ",
-        "formattedUrl": "https://www.aboutamazon.com/.../amazon-csam-transparency-report-2023",
-        "htmlFormattedUrl": "https://www.aboutamazon.com/.../amazon-<b>csam</b>-transparency-report-2023",
-        "pagemap": {
-            "metatags": [
-                {
-                    "viewport": "width=device-width, initial-scale=1"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Hearing Wrap Up: Filling Legal Gaps and Bolstering Enforcement ...",
-        "htmlTitle": "Hearing Wrap Up: Filling Legal Gaps and Bolstering Enforcement ...",
-        "link": "https://oversight.house.gov/release/hearing-wrap-up-filling-legal-gaps-and-bolstering-enforcement-can-help-combat-harmful-deepfakes/",
-        "displayLink": "oversight.house.gov",
-        "snippet": "Mar 13, 2024 ... ... (CSAM) is proliferating on the internet and social media sites, overwhelmingly victimizing women and children. Subcommittee members emphasized the need to\u00a0...",
-        "htmlSnippet": "Mar 13, 2024 <b>...</b> ... (<b>CSAM</b>) is proliferating on the internet and social media sites, overwhelmingly victimizing women and children. Subcommittee members emphasized the need to&nbsp;...",
-        "cacheId": "pBzV1KLNzhsJ",
-        "formattedUrl": "https://oversight.house.gov/.../hearing-wrap-up-filling-legal-gaps-and-bolst...",
-        "htmlFormattedUrl": "https://oversight.house.gov/.../hearing-wrap-up-filling-legal-gaps-and-bolst...",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQya2nEpprc_cR7YEM5Eev1RXrGnT_pVT6H0KFzEqZVyYbnKSj9kdiJDk_V&s",
-                    "width": "282",
-                    "height": "179"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://oversight.house.gov/wp-content/uploads/2024/03/Deepfake-Mace-HEaring-1024x650.png",
-                    "og:type": "article",
-                    "twitter:card": "summary_large_image",
-                    "og:site_name": "United States House Committee on Oversight and Accountability",
-                    "og:title": "Hearing Wrap Up: Filling Legal Gaps and Bolstering Enforcement Can Help Combat Harmful Deepfakes - United States House Committee on Oversight and Accountability",
-                    "twitter:label1": "Est. reading time",
-                    "og:description": "United States House Committee on Oversight and Accountability",
-                    "article:publisher": "http://facebook.com/oversight",
-                    "twitter:data1": "5 minutes",
-                    "twitter:site": "@gopoversight",
-                    "viewport": "width=device-width, initial-scale=1",
-                    "og:locale": "en_US",
-                    "og:url": "https://oversight.house.gov/release/hearing-wrap-up-filling-legal-gaps-and-bolstering-enforcement-can-help-combat-harmful-deepfakes/"
-                }
-            ],
-            "cse_image": [
-                {
-                    "src": "https://oversight.house.gov/wp-content/uploads/2024/03/Deepfake-Mace-HEaring-1024x650.png"
-                }
-            ]
-        }
-    },
-    {
-        "kind": "customsearch#result",
-        "title": "Hunting Hydra: the discovery of a massive CSAM network | Cybernews",
-        "htmlTitle": "Hunting Hydra: the discovery of a massive <b>CSAM</b> network | Cybernews",
-        "link": "https://cybernews.com/editorial/uncovering-massive-csam-network/",
-        "displayLink": "cybernews.com",
-        "snippet": "8 days ago ... It's been two weeks since my research team began investigating a website that was hosting a Child Sexual Abuse Material (CSAM) marketplace. But what we didn\u00a0...",
-        "htmlSnippet": "8 days ago <b>...</b> It&#39;s been two weeks since my research team began investigating a website that was hosting a Child Sexual Abuse Material (<b>CSAM</b>) marketplace. But what we didn&nbsp;...",
-        "cacheId": "Otjlehz5escJ",
-        "formattedUrl": "https://cybernews.com/editorial/uncovering-massive-csam-network/",
-        "htmlFormattedUrl": "https://cybernews.com/editorial/uncovering-massive-<b>csam</b>-network/",
-        "pagemap": {
-            "cse_thumbnail": [
-                {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnwarEzjGB_czmBH-wsq0DZeLftDk1WSgrL-_N69WX_iWqmOixBb1nCk&s",
-                    "width": "303",
-                    "height": "166"
-                }
-            ],
-            "metatags": [
-                {
-                    "og:image": "https://media.cybernews.com/images/featured-big/2023/12/red-keyboard-hacker.jpg",
-                    "og:type": "article",
-                    "article:published_time": "2024-03-22T17:00:00+00:00",
+                    "og:image": "https://static.tradingview.com/static/images/financials-social.png",
+                    "theme-color": "#F8F9FD",
                     "og:image:width": "1200",
-                    "theme-color": "#121212",
                     "twitter:card": "summary_large_image",
-                    "og:site_name": "Cybernews",
-                    "og:title": "Hunting Hydra: the discovery of a massive CSAM network | Cybernews",
-                    "og:image:height": "660",
-                    "twitter:label1": "Written by",
-                    "og:description": "White hat hackers, OSINT, and the fight against online child abuse",
-                    "twitter:creator": "@CyberNews",
-                    "twitter:data1": "Jesse William McGraw",
-                    "twitter:site": "@CyberNews",
-                    "article:modified_time": "2024-03-25T10:00:39+00:00",
-                    "viewport": "width=device-width, initial-scale=1, viewport-fit=cover, minimum-scale=1",
-                    "og:locale": "en_us",
-                    "og:url": "https://cybernews.com/editorial/uncovering-massive-csam-network/"
+                    "og:site_name": "TradingView",
+                    "twitter:url": "https://www.tradingview.com/symbols/OSL-OMDA/financials-balance-sheet/net-debt/",
+                    "apple-mobile-web-app-title": "TradingView Site",
+                    "og:description": "Net debt, quarterly and annual stats of CSAM Health Group AS.",
+                    "al:ios:app_store_id": "1205990992",
+                    "twitter:image": "https://static.tradingview.com/static/images/financials-social.png",
+                    "ahrefs-site-verification": "f729ff74def35be4b9b92072c0e995b40fcb9e1aece03fb174343a1b7a5350ce",
+                    "twitter:site": "@TradingView",
+                    "application-name": "TradingView",
+                    "og:type": "website",
+                    "twitter:title": "Net debt of CSAM Health Group AS \u2013 OTC:CSAMF \u2013 TradingView",
+                    "al:ios:app_name": "TradingView - trading community, charts and quotes",
+                    "og:title": "Net debt of CSAM Health Group AS \u2013 OTC:CSAMF \u2013 TradingView",
+                    "og:image:height": "630",
+                    "apple-mobile-web-app-status-bar-style": "black",
+                    "tv:server-name": "prod-frontend-web-a-spot-4",
+                    "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+                    "apple-mobile-web-app-capable": "yes",
+                    "twitter:description": "Net debt, quarterly and annual stats of CSAM Health Group AS.",
+                    "og:url": "https://www.tradingview.com/symbols/OSL-OMDA/financials-balance-sheet/net-debt/",
+                    "format-detection": "telephone=no"
                 }
             ],
             "cse_image": [
                 {
-                    "src": "https://media.cybernews.com/images/featured-big/2023/12/red-keyboard-hacker.jpg"
+                    "src": "https://static.tradingview.com/static/images/financials-social.png"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Report on personal impacts of public advocacy by survivors of ...",
+        "htmlTitle": "Report on personal impacts of public advocacy by survivors of ...",
+        "link": "https://www.protectchildren.ca/en/press-and-media/news-releases/2024/advocacy-group-impacts-report",
+        "displayLink": "www.protectchildren.ca",
+        "snippet": "Mar 6, 2024 ... ... child sexual abuse material (CSAM) who have come together to publicly advocate for social and policy change to protect children and other survivors.",
+        "htmlSnippet": "Mar 6, 2024 <b>...</b> ... child sexual abuse material (<b>CSAM</b>) who have come together to publicly advocate for social and policy change to protect children and other survivors.",
+        "cacheId": "q15c2s1MLVoJ",
+        "formattedUrl": "https://www.protectchildren.ca/en/press.../advocacy-group-impacts-report",
+        "htmlFormattedUrl": "https://www.protectchildren.ca/en/press.../advocacy-group-impacts-report",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bkJkdE5xSEsq-WtmWzjm7_0SQx4f0R59XJR--Gd8AT4AyoEe8aOi5kQ&s",
+                    "width": "318",
+                    "height": "159"
+                }
+            ],
+            "metatags": [
+                {
+                    "application-name": "protectchildren.ca",
+                    "msapplication-tilecolor": "#499338",
+                    "og:image": "https://www.protectchildren.ca/static/images/og/OG_Research_SurvivorsAdvocacyReport_en.dfbe4a076c6b.jpg",
+                    "theme-color": "#499338",
+                    "og:type": "website",
+                    "og:image:width": "1600",
+                    "twitter:card": "summary_large_image",
+                    "twitter:title": "Report on personal impacts of public advocacy by survivors of CSAM released by C3P",
+                    "og:site_name": "protectchildren.ca",
+                    "og:title": "Report on personal impacts of public advocacy by survivors of CSAM released by C3P",
+                    "og:image:height": "800",
+                    "msapplication-navbutton-color": "#499338",
+                    "og:description": "Findings from a new report commissioned by the Canadian Centre for Child Protection (C3P) released today explore the experiences of survivors of child sexual abuse material (CSAM) who have come together to publicly advocate for social and policy change to protect children and other survivors.",
+                    "twitter:creator": "@CdnChildProtect",
+                    "twitter:image": "https://www.protectchildren.ca/static/images/og/OG_Research_SurvivorsAdvocacyReport_en.dfbe4a076c6b.jpg",
+                    "apple-mobile-web-app-status-bar-style": "#499338",
+                    "twitter:site": "@CdnChildProtect",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "twitter:description": "Findings from a new report commissioned by the Canadian Centre for Child Protection (C3P) released today explore the experiences of survivors of child sexual abuse material (CSAM) who have come together to publicly advocate for social and policy change to protect children and other survivors.",
+                    "og:locale": "en_CA",
+                    "og:url": "https://www.protectchildren.ca/en/press-and-media/news-releases/2024/advocacy-group-impacts-report"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://www.protectchildren.ca/static/images/og/OG_Research_SurvivorsAdvocacyReport_en.dfbe4a076c6b.jpg"
                 }
             ]
         }
