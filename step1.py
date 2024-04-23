@@ -3,9 +3,18 @@ import requests
 import re
 import json
 import pandas as pd
-from google_api import API_KEY, SEARCH_ENGINE_ID
+from dotenv import load_dotenv, dotenv_values
+import time
+import random
 
-def clean_filename(filename):
+# from google_api import API_KEY, SEARCH_ENGINE_ID
+
+load_dotenv()
+
+API_KEY = os.environ.get("API_KEY")
+SEARCH_ENGINE_ID = os.environ.get("SEARCH_ENGINE_ID")
+
+def clean_filename(filename: str) -> str:
     """
     Function to clean up a string to be used as a filename.
 
@@ -16,7 +25,7 @@ def clean_filename(filename):
     filename = re.sub(r'[\\/*?:"<>|]', "", filename) # remove special characters
     return filename
 
-def build_payload(query, start=1, num=10, date_restrict='m1', **params):
+def build_payload(query: str , start=1, num=10, date_restrict='m1', **params) -> dict :
     """
     function to build the payload for the Google search API request.
 
@@ -41,7 +50,7 @@ def build_payload(query, start=1, num=10, date_restrict='m1', **params):
     payload.update(params)
     return payload
 
-def make_request(payload, max_retries=3):
+def make_request(payload: dict, max_retries=3) -> str :
     """
     Function to GET a request  to the Google Search API and handle  potential errors.
 
@@ -62,7 +71,7 @@ def make_request(payload, max_retries=3):
             retries += 1
     raise Exception('Failed to make request after multiple retries')
 
-def check_existing_links(links, existing_files):
+def check_existing_links(links: list, existing_files: list) -> str :
     existing_links = []
     for file in existing_files:
         with open(file, 'r') as f:
@@ -70,37 +79,61 @@ def check_existing_links(links, existing_files):
             existing_links.extend([item['link'] for item in data])
     return [link for link in links if link not in existing_links]
 
-def main(query, result_total=10):
+def main(filename, query, result_total=10):
     """
     Main function to execute the script.
     """
-    for q in query:
-        items = []
-        reminder = result_total % 10
-        if reminder > 0:
-            pages = (result_total // 10) + 1
+    print(f"Current Search Query: {query}")
+    print(f"Output Filename: Google_Search_Result_{clean_filename(filename)}.json")
+    items = []
+    reminder = result_total % 10
+    if reminder > 0:
+        pages = (result_total // 10) + 1
+    else:
+        pages = (result_total // 10)
+
+    for i in range(pages):
+        current_start = i * 10 + 1
+        if pages == i + 1 and reminder > 0:
+            current_num = reminder
         else:
-            pages = (result_total // 10)
-
-        for i in range(pages):
-            if pages == i + 1 and reminder > 0:
-                payload = build_payload(q, start=(i+1)*10, num=reminder)
-            else:
-                payload = build_payload(q, start=(i+1)*10)
-            response = make_request(payload)
+            current_num = 10
+                
+        payload = build_payload(query, start=current_start, num=current_num)
+        print(f"Current Payload: {payload}")
+        response = make_request(payload)
+        if 'items' in response:
             items.extend(response['items'])
-        query_string_clean = clean_filename(q)
 
-        existing_files = [file for file in os.listdir() if file.startswith("Google_Search_Result_") and file.endswith(".json")]
-        new_links = check_existing_links([item['link'] for item in items], existing_files)
-        new_items = [item for item in items if item['link'] in new_links]
+    query_string_clean = clean_filename(filename)
 
-        # Write to JSON file
-        with open(f'Google_Search_Result_{query_string_clean}.json', 'w') as json_file:
-            json.dump(new_items, json_file, indent=4)
+    existing_files = [file for file in os.listdir() if file.startswith("Google_Search_Result_") and file.endswith(".json")]
+    new_links = check_existing_links([item['link'] for item in items], existing_files)
+    new_items = [item for item in items if item['link'] in new_links]
+
+    # Write to JSON file with the updated file name
+    with open(f'Google_Search_Result_{query_string_clean}.json', 'w') as json_file:
+        json.dump(new_items, json_file, indent=4)
 
 if __name__ == '__main__':
-    search_queries = ["dog breeding", "Shiba Inu dog", "CSAM", "child protection", "massage parlors && human trafficking", "human trafficking", "sand mafias"]
-    total_results = 50
-    main(search_queries, total_results)
-
+    search_queries = [
+        ["CSAM PDF", "intitle:'CSAM' -'Customer Success Account Management' -'hiring' filetype:pdf"], 
+        ["Child Protection PDF", "intitle:'child protection' filetype:pdf"], 
+        ["Massage Parlors & Trafficking PDF", "intitle:'massage parlors' & 'trafficking' filetype:pdf"], 
+        ["Trafficking PDF", "intitle:'trafficking' filetype:pdf"], 
+        ["Sand Mafia PDF", "intitle:'sand mafia' filetype:pdf"],
+        ["CSAM HTML", "intitle:'CSAM' -'Customer Success Account Management' -'hiring' -filetype:html"], 
+        ["Child Protection HTML", "intitle:'child protection' -filetype:html"], 
+        ["Massage Parlors & Trafficking HTML", "intitle:'massage parlors' & 'trafficking' -filetype:html"], 
+        ["Trafficking HTML", "intitle:'trafficking' -filetype:html"], 
+        ["Sand Mafia HTML", "intitle:'sand mafia' -filetype:html"],
+        ["CSAM CSV", "intitle:'CSAM' -'Customer Success Account Management' -'hiring' -filetype:csv"]
+    ]
+    total_results = 75
+    for query_info in search_queries:
+        print(query_info)
+        main(*query_info, total_results)
+        # Introduce a random delay between 15 to 45 seconds
+        delay = random.randint(3, 7)
+        print(f"Waiting for {delay} seconds before next search...")
+        time.sleep(delay)
