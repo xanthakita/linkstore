@@ -69,7 +69,9 @@ def display_data(df):
 # Main function
 def main():
     # Set title
-    st.title("GEN Linkstore")
+    st.title("Linkstore")
+    st.subheader("Global Emancipation network")
+    """ This is a resource library """
 
     # Sidebar for selecting collections
     selected_collections = st.sidebar.multiselect("Select collections", get_collection_names())
