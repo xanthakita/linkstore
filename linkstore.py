@@ -71,7 +71,12 @@ def main():
     # Set title
     st.title("Linkstore")
     st.subheader("Global Emancipation network")
-    """ This is a resource library """
+    """ 
+    This is a resource library intended to provide resorces for people trying to learn more about 
+    human trafficking in all of its forms and child protection. 
+    The goal is to also provide local resource information so that users can find local 
+    help and support if you have seen or expereienced human trafficking or child endangerment!
+    """
 
     # Sidebar for selecting collections
     selected_collections = st.sidebar.multiselect("Select collections", get_collection_names())
