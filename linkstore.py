@@ -1,10 +1,18 @@
 import streamlit as st
 import pandas as pd
 import qrcode 
+import loguru
 from pymongo import MongoClient
 from PIL import Image
 from io import BytesIO
 from datetime import datetime
+
+# setup logfile
+date_obj = datetime(2023, 3, 8)
+thedate = date_obj.strftime("%m%d%Y")
+LOGFILE = f"/opt/logs/linkstore_{thedate}.log"
+logger = loguru.logger
+logger.add(LOGFILE, serialize=True)
 
 # Function to connect to MongoDB and return the collection
 def connect_to_mongodb():
@@ -30,6 +38,7 @@ def parse_adobe_pdf_date(adobe_date):
             parsed_date = datetime.strptime(adobe_date[:14], "%Y%m%d%H%M%S")  # Parse the date and time
             return parsed_date.strftime("%Y-%m-%d %H:%M:%S")  # Convert to standard datetime string
         except ValueError:
+            logger.error("Date could not be parsed")
             return None
     else:
         return None
@@ -57,6 +66,10 @@ def display_data(df):
         with col2:
             st.header(f"{row['title']}")
             st.write(f"**Category:** {row['category']}")
+            if 'summary' in row:
+                st.write(f"Summary: [{row['summary']}] ")
+            else:
+                st.write("Summary: N/A")
             published_time = parse_adobe_pdf_date(row['metatags'].get('creationdate', ""))
             st.write(f"**Published Time:** {published_time}")
             st.write(f"**Link:** [{row['displayLink']}]({row['link']})")
@@ -65,6 +78,7 @@ def display_data(df):
 
         # Add a horizontal rule between entries
         st.markdown("---")
+
 
 # Main function
 def main():
@@ -91,9 +105,11 @@ def main():
                 st.write(f"- {name}: {count}")
         else:
             st.error("Failed to connect to MongoDB. Please check your connection settings.")
+            logger.error("Failed to connect to MongoDB. Please check your connection settings.")
     else:
         # Display document data for the selected collections
         for collection_name in selected_collections:
+            logger.info(f"selected:{collection_name}")
             st.header(f"Documents in Collection: {collection_name}")
             collection = connect_to_mongodb()[collection_name]
             cursor = collection.find()

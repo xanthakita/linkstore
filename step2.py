@@ -1,4 +1,6 @@
 import os
+import re
+
 import json
 import hashlib
 from datetime import datetime
@@ -37,6 +39,7 @@ def extract_info(json_file, category):
             "link": data.get("link", ""),
             "displayLink": data.get("displayLink", ""),
             "snippet": data.get("snippet", ""),
+            "summary": data.get("ollama_summary", "No Summary Available"),
             "formattedUrl": data.get("formattedUrl", ""),
             "category": category,  # Include category in extracted information
             "id": id_with_counter,
@@ -59,7 +62,9 @@ def process_files(directory):
     db = connect_to_mongodb()
     for filename in os.listdir(directory):
         if filename.startswith("Google_Search_Result_") and filename.endswith(".json"):
-            category = filename.split("_")[3].split(".")[0]  # Extract category from filename
+            # category = filename.split("_")[3].split(".")[0]  # Extract category from filename
+            category = re.search(r"Google_Search_Result_(.*?)\.json", filename).group(1)
+            category = category.replace('_', ' ')
             collection_name = f'{category}'  # Create collection name based on category
             collection = db[collection_name]  # Get or create the collection
             json_file = os.path.join(directory, filename)
